@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.2" created="2021-11-21 06:07" -->
+	<!-- generator="WordPress/5.8.2" created="2021-11-21 06:36" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Cailo</title>
 	<link>https://www.themepush.com/demo-cailo</link>
 	<description>Just another Wordpress Themes site</description>
-	<pubDate>Sun, 21 Nov 2021 06:07:36 +0000</pubDate>
+	<pubDate>Sun, 21 Nov 2021 06:36:16 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://www.themepush.com/</wp:base_site_url>
@@ -127,7 +127,7 @@
 
 		<item>
 		<title><![CDATA[untitled]]></title>
-		<link>https://www.themepush.com/demo-cailo/front/untitled/</link>
+		<link>https://www.themepush.com/demo-cailo/home/untitled/</link>
 		<pubDate>Sat, 20 Nov 2021 21:45:42 +0000</pubDate>
 		<dc:creator><![CDATA[themepushwp]]></dc:creator>
 		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/untitled.png</guid>
@@ -159,7 +159,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:154138;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:37089;s:4:"type";s:9:"image/png";s:5:"width";i:1280;s:6:"height";i:960;s:5:"ratio";d:0.2406;}s:3:"end";i:1637459968;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:154138;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:37089;s:4:"type";s:9:"image/png";s:5:"width";i:1280;s:6:"height";i:960;s:5:"ratio";d:0.2406;}s:3:"end";i:1637459968;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:122825;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:37525;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:768;s:5:"ratio";d:0.3055;}s:3:"end";i:1637476475;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -196,7 +196,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:287330;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:114160;s:4:"type";s:9:"image/png";s:5:"width";i:4168;s:6:"height";i:4167;s:5:"ratio";d:0.3973;}s:3:"end";i:1637445099;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:287330;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:114160;s:4:"type";s:9:"image/png";s:5:"width";i:4168;s:6:"height";i:4167;s:5:"ratio";d:0.3973;}s:3:"end";i:1637445099;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:93902;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:30113;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3207;}s:3:"end";i:1637476465;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -233,7 +233,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:335919;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:130621;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.3888;}s:3:"end";i:1637445111;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:335919;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:130621;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.3888;}s:3:"end";i:1637445111;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:108547;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:34447;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3173;}s:3:"end";i:1637476457;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -270,7 +270,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:253078;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:110354;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.436;}s:3:"end";i:1637445123;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:253078;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:110354;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.436;}s:3:"end";i:1637445123;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:79928;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:26504;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3316;}s:3:"end";i:1637476472;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -307,7 +307,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:237923;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:98986;s:4:"type";s:9:"image/png";s:5:"width";i:4168;s:6:"height";i:4167;s:5:"ratio";d:0.416;}s:3:"end";i:1637445133;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:237923;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:98986;s:4:"type";s:9:"image/png";s:5:"width";i:4168;s:6:"height";i:4167;s:5:"ratio";d:0.416;}s:3:"end";i:1637445133;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:73744;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:23300;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.316;}s:3:"end";i:1637476462;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -344,7 +344,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:342000;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:142539;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4168;s:5:"ratio";d:0.4168;}s:3:"end";i:1637445146;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:342000;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:142539;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4168;s:5:"ratio";d:0.4168;}s:3:"end";i:1637445146;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:114713;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:36450;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3177;}s:3:"end";i:1637476460;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -381,7 +381,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:325345;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:143736;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4168;s:5:"ratio";d:0.4418;}s:3:"end";i:1637445159;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:325345;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:143736;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4168;s:5:"ratio";d:0.4418;}s:3:"end";i:1637445159;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:104613;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:35079;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3353;}s:3:"end";i:1637476454;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -418,7 +418,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:344144;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:138983;s:4:"type";s:9:"image/png";s:5:"width";i:4168;s:6:"height";i:4168;s:5:"ratio";d:0.4039;}s:3:"end";i:1637445171;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:344144;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:138983;s:4:"type";s:9:"image/png";s:5:"width";i:4168;s:6:"height";i:4168;s:5:"ratio";d:0.4039;}s:3:"end";i:1637445171;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:112875;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:35662;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3159;}s:3:"end";i:1637476448;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -455,7 +455,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:320731;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:137379;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.4283;}s:3:"end";i:1637445185;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:320731;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:137379;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.4283;}s:3:"end";i:1637445185;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:99822;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:34639;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.347;}s:3:"end";i:1637476440;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -492,7 +492,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:306953;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:130601;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.4255;}s:3:"end";i:1637445197;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:306953;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:130601;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.4255;}s:3:"end";i:1637445197;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:97233;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:31561;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3246;}s:3:"end";i:1637476451;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -529,7 +529,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:307349;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:143354;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.4664;}s:3:"end";i:1637445210;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:307349;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:143354;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.4664;}s:3:"end";i:1637445210;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:101108;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:34832;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3445;}s:3:"end";i:1637476443;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -566,7 +566,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:85614;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:74990;s:4:"type";s:9:"image/png";s:5:"width";i:934;s:6:"height";i:2119;s:5:"ratio";d:0.8759;}s:3:"end";i:1637446151;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:85614;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:74990;s:4:"type";s:9:"image/png";s:5:"width";i:934;s:6:"height";i:2119;s:5:"ratio";d:0.8759;}s:3:"end";i:1637446151;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:132836;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:41088;s:4:"type";s:9:"image/png";s:5:"width";i:451;s:6:"height";i:1024;s:5:"ratio";d:0.3093;}s:3:"end";i:1637476445;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -608,7 +608,7 @@
 							</item>
 					<item>
 		<title><![CDATA[photo-1553484771-6e117b648d45]]></title>
-		<link>https://www.themepush.com/demo-cailo/front/photo-1553484771-6e117b648d45/</link>
+		<link>https://www.themepush.com/demo-cailo/home/photo-1553484771-6e117b648d45/</link>
 		<pubDate>Sat, 20 Nov 2021 22:31:56 +0000</pubDate>
 		<dc:creator><![CDATA[themepushwp]]></dc:creator>
 		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/photo-1553484771-6e117b648d45.jpg</guid>
@@ -640,12 +640,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:171164;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:5:{s:4:"size";i:96924;s:4:"type";s:10:"image/jpeg";s:5:"width";i:1170;s:6:"height";i:780;s:5:"ratio";d:0.5663;}s:3:"end";i:1637459961;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:171164;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:5:{s:4:"size";i:96924;s:4:"type";s:10:"image/jpeg";s:5:"width";i:1170;s:6:"height";i:780;s:5:"ratio";d:0.5663;}s:3:"end";i:1637459961;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:122168;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:5:{s:4:"size";i:87208;s:4:"type";s:10:"image/jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:5:"ratio";d:0.7138;}s:3:"end";i:1637476433;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[signature]]></title>
-		<link>https://www.themepush.com/demo-cailo/front/michael-jordan-personal-autograph-300x187/</link>
+		<link>https://www.themepush.com/demo-cailo/home/michael-jordan-personal-autograph-300x187/</link>
 		<pubDate>Sat, 20 Nov 2021 22:32:35 +0000</pubDate>
 		<dc:creator><![CDATA[themepushwp]]></dc:creator>
 		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/Michael-Jordan-personal-autograph-300x187-1.png</guid>
@@ -714,7 +714,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:171164;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:5:{s:4:"size";i:96924;s:4:"type";s:10:"image/jpeg";s:5:"width";i:1170;s:6:"height";i:780;s:5:"ratio";d:0.5663;}s:3:"end";i:1637459959;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:171164;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:5:{s:4:"size";i:96924;s:4:"type";s:10:"image/jpeg";s:5:"width";i:1170;s:6:"height";i:780;s:5:"ratio";d:0.5663;}s:3:"end";i:1637459959;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:122168;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:5:{s:4:"size";i:87208;s:4:"type";s:10:"image/jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:5:"ratio";d:0.7138;}s:3:"end";i:1637476424;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -751,7 +751,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:175971;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:59112;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.3359;}s:3:"end";i:1637457300;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:175971;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:59112;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.3359;}s:3:"end";i:1637457300;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:111408;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:34001;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:768;s:5:"ratio";d:0.3052;}s:3:"end";i:1637476436;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -788,7 +788,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:166147;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:53300;s:4:"type";s:9:"image/png";s:5:"width";i:1288;s:6:"height";i:1080;s:5:"ratio";d:0.3208;}s:3:"end";i:1637457306;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:166147;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:53300;s:4:"type";s:9:"image/png";s:5:"width";i:1288;s:6:"height";i:1080;s:5:"ratio";d:0.3208;}s:3:"end";i:1637457306;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:124046;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:35610;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:859;s:5:"ratio";d:0.2871;}s:3:"end";i:1637476420;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -825,7 +825,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:194416;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:57636;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.2965;}s:3:"end";i:1637457310;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:194416;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:57636;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.2965;}s:3:"end";i:1637457310;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:122916;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:32707;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:768;s:5:"ratio";d:0.2661;}s:3:"end";i:1637476417;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -862,56 +862,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:160051;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:49423;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.3088;}s:3:"end";i:1637457315;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[intro]]></title>
-		<link>https://www.themepush.com/demo-cailo/?attachment_id=16</link>
-		<pubDate>Sat, 20 Nov 2021 21:45:06 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/intro.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 21:45:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 21:45:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 05:26:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 05:26:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[intro__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>10</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/intro.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/intro.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1448;s:6:"height";i:1448;s:4:"file";s:17:"2021/11/intro.png";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:17:"intro-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:19:"intro-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:17:"intro-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:17:"intro-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:272075;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:75450;s:4:"type";s:9:"image/png";s:5:"width";i:1448;s:6:"height";i:1448;s:5:"ratio";d:0.2773;}s:3:"end";i:1637459975;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1637472379]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[intro]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:160051;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:49423;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.3088;}s:3:"end";i:1637457315;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:101895;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:29221;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:768;s:5:"ratio";d:0.2868;}s:3:"end";i:1637476427;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1240,8 +1191,8 @@
 <h6 class="has-text-color" style="color:#000000">INCLUDED WITH THE PACK</h6>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.1","fontSize":"5vw"},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:5vw;line-height:1.1">Royalty Free.</p>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.1","fontSize":"75px"},"color":{"text":"#000000"}}} -->
+<p class="has-text-color" style="color:#000000;font-size:75px;line-height:1.1">Royalty Free.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":5} -->
@@ -1292,8 +1243,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 22:24:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 22:24:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-20 22:27:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-20 22:27:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 06:30:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 06:30:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[santoria-pack]]></wp:post_name>
@@ -1340,10 +1291,6 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:1:"0";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_button_behavior]]></wp:meta_key>
-		<wp:meta_value><![CDATA[add_to_cart]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_bundled_products_conditions]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:1;s:3:"all";}]]></wp:meta_value>
 		</wp:postmeta>
@@ -1382,8 +1329,12 @@
 <h6 class="has-text-color" style="color:#000000">INCLUDED WITH THE PACK</h6>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.1","fontSize":"5vw"},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:5vw;line-height:1.1">Royalty Free.</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"45px","lineHeight":".9"},"color":{"text":"#000000"}}} -->
+<p class="has-text-color" style="color:#000000;font-size:45px;line-height:.9">Best Holidays Pack</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"45px","lineHeight":".9"},"color":{"text":"#000000"}}} -->
+<p class="has-text-color" style="color:#000000;font-size:45px;line-height:.9">Illustrations.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":5} -->
@@ -1434,8 +1385,8 @@
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 22:42:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 22:42:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-20 22:44:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-20 22:44:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 06:29:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 06:29:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cheerful-pack]]></wp:post_name>
@@ -1482,10 +1433,6 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:1:"0";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_button_behavior]]></wp:meta_key>
-		<wp:meta_value><![CDATA[add_to_cart]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_bundled_products_conditions]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:1;s:3:"all";}]]></wp:meta_value>
 		</wp:postmeta>
@@ -1507,808 +1454,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[1i]]></title>
-		<link>https://www.themepush.com/demo-cailo/?attachment_id=117</link>
-		<pubDate>Sat, 20 Nov 2021 23:24:58 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/1i.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>117</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 23:24:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 23:24:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 05:26:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 05:26:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1i__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/1i.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/1i.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:600;s:4:"file";s:14:"2021/11/1i.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:14:"1i-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:14:"1i-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:92939;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:28205;s:4:"type";s:9:"image/png";s:5:"width";i:600;s:6:"height";i:600;s:5:"ratio";d:0.3035;}s:3:"end";i:1637459971;}s:6:"medium";a:0:{}s:9:"thumbnail";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1637472363]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1i]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[about]]></title>
-		<link>https://www.themepush.com/demo-cailo/?attachment_id=158</link>
-		<pubDate>Sat, 20 Nov 2021 23:56:41 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/about.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>158</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 23:56:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 23:56:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 05:25:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 05:25:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/about.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/about.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1282;s:4:"file";s:17:"2021/11/about.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:17:"about-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"about-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:17:"about-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"about-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:19:"about-1536x1026.jpg";s:5:"width";i:1536;s:6:"height";i:1026;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:333872;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:5:{s:4:"size";i:178842;s:4:"type";s:10:"image/jpeg";s:5:"width";i:1920;s:6:"height";i:1282;s:5:"ratio";d:0.5357;}s:3:"end";i:1637459952;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1637472358]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[about-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[blog5]]></title>
-		<link>https://www.themepush.com/demo-cailo/what-is-brand/blog5/</link>
-		<pubDate>Sun, 21 Nov 2021 01:15:16 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/blog5.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>255</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:15:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:15:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:15:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:15:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog5]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/blog5.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/blog5.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1440;s:6:"height";i:1080;s:4:"file";s:17:"2021/11/blog5.png";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:17:"blog5-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:18:"blog5-1024x768.png";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:17:"blog5-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:17:"blog5-768x576.png";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:89654;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:35224;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.3929;}s:3:"end";i:1637457319;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[blog6]]></title>
-		<link>https://www.themepush.com/demo-cailo/what-is-brand/blog6/</link>
-		<pubDate>Sun, 21 Nov 2021 01:15:20 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/blog6.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>256</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:15:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:15:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:15:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:15:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog6]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/blog6.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/blog6.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1440;s:6:"height";i:1080;s:4:"file";s:17:"2021/11/blog6.png";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:17:"blog6-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:18:"blog6-1024x768.png";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:17:"blog6-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:17:"blog6-768x576.png";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:117548;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:41641;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.3542;}s:3:"end";i:1637457324;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[boston-public-library-6b2xPLPN6ag-unsplash]]></title>
-		<link>https://www.themepush.com/demo-cailo/?attachment_id=272</link>
-		<pubDate>Sun, 21 Nov 2021 01:33:58 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/boston-public-library-6b2xPLPN6ag-unsplash.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>272</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:33:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:33:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 05:26:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 05:26:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[boston-public-library-6b2xplpn6ag-unsplash__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/boston-public-library-6b2xPLPN6ag-unsplash.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/boston-public-library-6b2xPLPN6ag-unsplash.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1138;s:4:"file";s:54:"2021/11/boston-public-library-6b2xPLPN6ag-unsplash.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:54:"boston-public-library-6b2xPLPN6ag-unsplash-300x178.jpg";s:5:"width";i:300;s:6:"height";i:178;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:55:"boston-public-library-6b2xPLPN6ag-unsplash-1024x607.jpg";s:5:"width";i:1024;s:6:"height";i:607;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:54:"boston-public-library-6b2xPLPN6ag-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:54:"boston-public-library-6b2xPLPN6ag-unsplash-768x455.jpg";s:5:"width";i:768;s:6:"height";i:455;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:55:"boston-public-library-6b2xPLPN6ag-unsplash-1536x910.jpg";s:5:"width";i:1536;s:6:"height";i:910;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:892359;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:5:{s:4:"size";i:542849;s:4:"type";s:10:"image/jpeg";s:5:"width";i:1920;s:6:"height";i:1138;s:5:"ratio";d:0.6083;}s:3:"end";i:1637458446;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1637472383]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[boston-public-library-6b2xplpn6ag-unsplash]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-01]]></title>
-		<link>https://www.themepush.com/demo-cailo/what-is-brand/drawkit-vector-illustration-ecommerce-01/</link>
-		<pubDate>Sun, 21 Nov 2021 01:39:21 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-01.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>275</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:39:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:39:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:39:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:39:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-01]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-01.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-01.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1530;s:4:"file";s:52:"2021/11/DrawKit-Vector-Illustration-ecommerce-01.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-01-300x239.png";s:5:"width";i:300;s:6:"height";i:239;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-01-1024x816.png";s:5:"width";i:1024;s:6:"height";i:816;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-01-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-01-768x612.png";s:5:"width";i:768;s:6:"height";i:612;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-01-1536x1224.png";s:5:"width";i:1536;s:6:"height";i:1224;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:409800;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:101069;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1530;s:5:"ratio";d:0.2466;}s:3:"end";i:1637458767;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-02]]></title>
-		<link>https://www.themepush.com/demo-cailo/what-is-brand/drawkit-vector-illustration-ecommerce-02/</link>
-		<pubDate>Sun, 21 Nov 2021 01:39:47 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>276</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:39:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:39:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:39:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:39:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-02]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-02.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1530;s:4:"file";s:52:"2021/11/DrawKit-Vector-Illustration-ecommerce-02.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-02-300x239.png";s:5:"width";i:300;s:6:"height";i:239;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-02-1024x816.png";s:5:"width";i:1024;s:6:"height";i:816;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-02-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-02-768x612.png";s:5:"width";i:768;s:6:"height";i:612;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-02-1536x1224.png";s:5:"width";i:1536;s:6:"height";i:1224;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:311239;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:78029;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1530;s:5:"ratio";d:0.2507;}s:3:"end";i:1637459955;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-07]]></title>
-		<link>https://www.themepush.com/demo-cailo/what-is-brand/drawkit-vector-illustration-ecommerce-07/</link>
-		<pubDate>Sun, 21 Nov 2021 01:39:56 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-07.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>277</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:39:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:39:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:39:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:39:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-07]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-07.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-07.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1241;s:4:"file";s:52:"2021/11/DrawKit-Vector-Illustration-ecommerce-07.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-07-300x194.png";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-07-1024x662.png";s:5:"width";i:1024;s:6:"height";i:662;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-07-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-07-768x496.png";s:5:"width";i:768;s:6:"height";i:496;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-07-1536x993.png";s:5:"width";i:1536;s:6:"height";i:993;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:220594;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:54668;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1241;s:5:"ratio";d:0.2478;}s:3:"end";i:1637459965;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-02]]></title>
-		<link>https://www.themepush.com/demo-cailo/what-is-brand/drawkit-vector-illustration-ecommerce-02-2/</link>
-		<pubDate>Sun, 21 Nov 2021 01:40:22 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>279</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:40:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:40:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:40:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:40:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-02-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-02-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1530;s:4:"file";s:54:"2021/11/DrawKit-Vector-Illustration-ecommerce-02-1.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-02-1-300x239.png";s:5:"width";i:300;s:6:"height";i:239;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:55:"DrawKit-Vector-Illustration-ecommerce-02-1-1024x816.png";s:5:"width";i:1024;s:6:"height";i:816;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-02-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-02-1-768x612.png";s:5:"width";i:768;s:6:"height";i:612;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:56:"DrawKit-Vector-Illustration-ecommerce-02-1-1536x1224.png";s:5:"width";i:1536;s:6:"height";i:1224;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:311239;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:78029;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1530;s:5:"ratio";d:0.2507;}s:3:"end";i:1637458827;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-08]]></title>
-		<link>https://www.themepush.com/demo-cailo/most-creative-agency-profiles-on-behance/drawkit-vector-illustration-ecommerce-08/</link>
-		<pubDate>Sun, 21 Nov 2021 01:50:23 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-08.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>287</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:50:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:50:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:50:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:50:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-08]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>285</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-08.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-08.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1237;s:4:"file";s:52:"2021/11/DrawKit-Vector-Illustration-ecommerce-08.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-08-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-08-1024x660.png";s:5:"width";i:1024;s:6:"height";i:660;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-08-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-08-768x495.png";s:5:"width";i:768;s:6:"height";i:495;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-08-1536x990.png";s:5:"width";i:1536;s:6:"height";i:990;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:277086;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:69694;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1237;s:5:"ratio";d:0.2515;}s:3:"end";i:1637459427;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[DrawKit Vector Illustration Christmas & Thanksgiving (3)]]></title>
-		<link>https://www.themepush.com/demo-cailo/most-creative-agency-profiles-on-behance/drawkit-vector-illustration-christmas-thanksgiving-3/</link>
-		<pubDate>Sun, 21 Nov 2021 01:51:33 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-3.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>289</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:51:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:51:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:51:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:51:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[drawkit-vector-illustration-christmas-thanksgiving-3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>285</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-3.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-3.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:4168;s:6:"height";i:4167;s:4:"file";s:64:"2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-3.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";}s:9:"2048x2048";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-2048x2048.png";s:5:"width";i:2048;s:6:"height";i:2048;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:361403;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:144655;s:4:"type";s:9:"image/png";s:5:"width";i:4168;s:6:"height";i:4167;s:5:"ratio";d:0.4003;}s:3:"end";i:1637459505;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[DrawKit Vector Illustration Christmas & Thanksgiving (6)]]></title>
-		<link>https://www.themepush.com/demo-cailo/most-creative-agency-profiles-on-behance/drawkit-vector-illustration-christmas-thanksgiving-6/</link>
-		<pubDate>Sun, 21 Nov 2021 01:54:36 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-6.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>292</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:54:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:54:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:54:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:54:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[drawkit-vector-illustration-christmas-thanksgiving-6]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>285</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-6.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-6.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:4167;s:6:"height";i:4167;s:4:"file";s:64:"2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-6.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";}s:9:"2048x2048";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-2048x2048.png";s:5:"width";i:2048;s:6:"height";i:2048;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:375698;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:163459;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.4351;}s:3:"end";i:1637459688;}s:6:"medium";a:0:{}s:5:"large";a:0:{}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[logo]]></title>
-		<link>https://www.themepush.com/demo-cailo/logo-2/</link>
-		<pubDate>Sun, 21 Nov 2021 02:20:47 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/logo-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>304</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 02:20:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 02:20:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 02:20:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 02:20:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/logo-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/logo-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:34;s:6:"height";i:40;s:4:"file";s:18:"2021/11/logo-1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:643;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:553;s:4:"type";s:9:"image/png";s:5:"width";i:34;s:6:"height";i:40;s:5:"ratio";d:0.86;}s:3:"end";i:1637461249;}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Cailo]]></title>
-		<link>https://www.themepush.com/demo-cailo/?attachment_id=306</link>
-		<pubDate>Sun, 21 Nov 2021 02:21:12 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/Cailo.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>306</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 02:21:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 02:21:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 05:26:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 05:26:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cailo-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/Cailo.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/11/Cailo.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:17:"2021/11/Cailo.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:17:"Cailo-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:17:"Cailo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:12003;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:1933;s:4:"type";s:9:"image/png";s:5:"width";i:300;s:6:"height";i:300;s:5:"ratio";d:0.161;}s:3:"end";i:1637461274;}s:6:"medium";a:0:{}s:9:"thumbnail";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[inherit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1637472373]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cailo-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://www.themepush.com/demo-cailo/home/</link>
-		<pubDate>Sat, 20 Nov 2021 22:37:34 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?p=70</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>70</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 00:37:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 22:37:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 00:37:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 00:37:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-11-20]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Illustrations]]></title>
-		<link>https://www.themepush.com/demo-cailo/illustrations/</link>
-		<pubDate>Sat, 20 Nov 2021 22:39:05 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?p=73</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>73</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 00:37:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 22:39:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 00:37:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 00:37:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[illustrations]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type_archive]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[download]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-11-20]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Disclaimer]]></title>
-		<link>https://www.themepush.com/demo-cailo/74/</link>
-		<pubDate>Sat, 20 Nov 2021 22:40:38 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?p=74</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>74</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 23:12:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 22:40:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-20 23:12:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-20 23:12:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[74]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://www.themepush.com/demo-cailo/75/</link>
-		<pubDate>Sat, 20 Nov 2021 22:40:38 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?p=75</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>75</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 23:12:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 22:40:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-20 23:12:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-20 23:12:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[75]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Friday Pack]]></title>
 		<link>https://www.themepush.com/demo-cailo/downloads/friday-pack/</link>
 		<pubDate>Sat, 20 Nov 2021 22:49:18 +0000</pubDate>
@@ -2326,8 +1471,12 @@
 <h6 class="has-text-color" style="color:#000000">INCLUDED WITH THE PACK</h6>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.1","fontSize":"5vw"},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:5vw;line-height:1.1">Royalty Free.</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"55px","lineHeight":".9"},"color":{"text":"#000000"}}} -->
+<p class="has-text-color" style="color:#000000;font-size:55px;line-height:.9">Ultimate Pack </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"55px","lineHeight":".9"},"color":{"text":"#000000"}}} -->
+<p class="has-text-color" style="color:#000000;font-size:55px;line-height:.9">Royalty Free.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":5} -->
@@ -2378,8 +1527,8 @@
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 22:49:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 22:49:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-20 22:49:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-20 22:49:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 06:28:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 06:28:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[friday-pack]]></wp:post_name>
@@ -2421,10 +1570,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_bundled_products]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:1:"0";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_button_behavior]]></wp:meta_key>
-		<wp:meta_value><![CDATA[add_to_cart]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_bundled_products_conditions]]></wp:meta_key>
@@ -2998,6 +2143,894 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
 		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[blog5]]></title>
+		<link>https://www.themepush.com/demo-cailo/what-is-brand/blog5/</link>
+		<pubDate>Sun, 21 Nov 2021 01:15:16 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/blog5.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>255</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 01:15:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 01:15:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 01:15:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 01:15:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog5]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/blog5.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/blog5.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1440;s:6:"height";i:1080;s:4:"file";s:17:"2021/11/blog5.png";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:17:"blog5-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:18:"blog5-1024x768.png";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:17:"blog5-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:17:"blog5-768x576.png";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:89654;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:35224;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.3929;}s:3:"end";i:1637457319;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:57959;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:21337;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:768;s:5:"ratio";d:0.3681;}s:3:"end";i:1637476405;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[blog6]]></title>
+		<link>https://www.themepush.com/demo-cailo/what-is-brand/blog6/</link>
+		<pubDate>Sun, 21 Nov 2021 01:15:20 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/blog6.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>256</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 01:15:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 01:15:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 01:15:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 01:15:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog6]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/blog6.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/blog6.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1440;s:6:"height";i:1080;s:4:"file";s:17:"2021/11/blog6.png";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:17:"blog6-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:18:"blog6-1024x768.png";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:17:"blog6-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:17:"blog6-768x576.png";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:117548;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:41641;s:4:"type";s:9:"image/png";s:5:"width";i:1440;s:6:"height";i:1080;s:5:"ratio";d:0.3542;}s:3:"end";i:1637457324;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:74671;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:23882;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:768;s:5:"ratio";d:0.3198;}s:3:"end";i:1637476402;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-01]]></title>
+		<link>https://www.themepush.com/demo-cailo/what-is-brand/drawkit-vector-illustration-ecommerce-01/</link>
+		<pubDate>Sun, 21 Nov 2021 01:39:21 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-01.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>275</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 01:39:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 01:39:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 01:39:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 01:39:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-01]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-01.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-01.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1530;s:4:"file";s:52:"2021/11/DrawKit-Vector-Illustration-ecommerce-01.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-01-300x239.png";s:5:"width";i:300;s:6:"height";i:239;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-01-1024x816.png";s:5:"width";i:1024;s:6:"height";i:816;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-01-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-01-768x612.png";s:5:"width";i:768;s:6:"height";i:612;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-01-1536x1224.png";s:5:"width";i:1536;s:6:"height";i:1224;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:409800;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:101069;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1530;s:5:"ratio";d:0.2466;}s:3:"end";i:1637458767;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:175988;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:57919;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:816;s:5:"ratio";d:0.3291;}s:3:"end";i:1637476397;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-02]]></title>
+		<link>https://www.themepush.com/demo-cailo/what-is-brand/drawkit-vector-illustration-ecommerce-02/</link>
+		<pubDate>Sun, 21 Nov 2021 01:39:47 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>276</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 01:39:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 01:39:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 01:39:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 01:39:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-02]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-02.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1530;s:4:"file";s:52:"2021/11/DrawKit-Vector-Illustration-ecommerce-02.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-02-300x239.png";s:5:"width";i:300;s:6:"height";i:239;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-02-1024x816.png";s:5:"width";i:1024;s:6:"height";i:816;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-02-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-02-768x612.png";s:5:"width";i:768;s:6:"height";i:612;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-02-1536x1224.png";s:5:"width";i:1536;s:6:"height";i:1224;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:311239;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:78029;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1530;s:5:"ratio";d:0.2507;}s:3:"end";i:1637459955;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:138259;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:43800;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:816;s:5:"ratio";d:0.3168;}s:3:"end";i:1637476394;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-07]]></title>
+		<link>https://www.themepush.com/demo-cailo/what-is-brand/drawkit-vector-illustration-ecommerce-07/</link>
+		<pubDate>Sun, 21 Nov 2021 01:39:56 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-07.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>277</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 01:39:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 01:39:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 01:39:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 01:39:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-07]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-07.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-07.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1241;s:4:"file";s:52:"2021/11/DrawKit-Vector-Illustration-ecommerce-07.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-07-300x194.png";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-07-1024x662.png";s:5:"width";i:1024;s:6:"height";i:662;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-07-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-07-768x496.png";s:5:"width";i:768;s:6:"height";i:496;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-07-1536x993.png";s:5:"width";i:1536;s:6:"height";i:993;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:220594;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:54668;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1241;s:5:"ratio";d:0.2478;}s:3:"end";i:1637459965;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:93768;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:31111;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:662;s:5:"ratio";d:0.3318;}s:3:"end";i:1637476410;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-02]]></title>
+		<link>https://www.themepush.com/demo-cailo/what-is-brand/drawkit-vector-illustration-ecommerce-02-2/</link>
+		<pubDate>Sun, 21 Nov 2021 01:40:22 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>279</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 01:40:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 01:40:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 01:40:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 01:40:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-02-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-02-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1530;s:4:"file";s:54:"2021/11/DrawKit-Vector-Illustration-ecommerce-02-1.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-02-1-300x239.png";s:5:"width";i:300;s:6:"height";i:239;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:55:"DrawKit-Vector-Illustration-ecommerce-02-1-1024x816.png";s:5:"width";i:1024;s:6:"height";i:816;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-02-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:54:"DrawKit-Vector-Illustration-ecommerce-02-1-768x612.png";s:5:"width";i:768;s:6:"height";i:612;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:56:"DrawKit-Vector-Illustration-ecommerce-02-1-1536x1224.png";s:5:"width";i:1536;s:6:"height";i:1224;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:311239;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:78029;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1530;s:5:"ratio";d:0.2507;}s:3:"end";i:1637458827;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:138259;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:43800;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:816;s:5:"ratio";d:0.3168;}s:3:"end";i:1637476391;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-08]]></title>
+		<link>https://www.themepush.com/demo-cailo/most-creative-agency-profiles-on-behance/drawkit-vector-illustration-ecommerce-08/</link>
+		<pubDate>Sun, 21 Nov 2021 01:50:23 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-08.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>287</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 01:50:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 01:50:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 01:50:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 01:50:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[drawkit-vector-illustration-ecommerce-08]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>285</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-08.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-ecommerce-08.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1237;s:4:"file";s:52:"2021/11/DrawKit-Vector-Illustration-ecommerce-08.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-08-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-08-1024x660.png";s:5:"width";i:1024;s:6:"height";i:660;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-08-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:52:"DrawKit-Vector-Illustration-ecommerce-08-768x495.png";s:5:"width";i:768;s:6:"height";i:495;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:53:"DrawKit-Vector-Illustration-ecommerce-08-1536x990.png";s:5:"width";i:1536;s:6:"height";i:990;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:277086;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:69694;s:4:"type";s:9:"image/png";s:5:"width";i:1920;s:6:"height";i:1237;s:5:"ratio";d:0.2515;}s:3:"end";i:1637459427;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:116168;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:39503;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:660;s:5:"ratio";d:0.3401;}s:3:"end";i:1637476399;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[DrawKit Vector Illustration Christmas & Thanksgiving (3)]]></title>
+		<link>https://www.themepush.com/demo-cailo/most-creative-agency-profiles-on-behance/drawkit-vector-illustration-christmas-thanksgiving-3/</link>
+		<pubDate>Sun, 21 Nov 2021 01:51:33 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-3.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>289</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 01:51:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 01:51:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 01:51:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 01:51:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[drawkit-vector-illustration-christmas-thanksgiving-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>285</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-3.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-3.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:4168;s:6:"height";i:4167;s:4:"file";s:64:"2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-3.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";}s:9:"2048x2048";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-3-2048x2048.png";s:5:"width";i:2048;s:6:"height";i:2048;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:361403;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:144655;s:4:"type";s:9:"image/png";s:5:"width";i:4168;s:6:"height";i:4167;s:5:"ratio";d:0.4003;}s:3:"end";i:1637459505;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:109556;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:34685;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3166;}s:3:"end";i:1637476408;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[DrawKit Vector Illustration Christmas & Thanksgiving (6)]]></title>
+		<link>https://www.themepush.com/demo-cailo/most-creative-agency-profiles-on-behance/drawkit-vector-illustration-christmas-thanksgiving-6/</link>
+		<pubDate>Sun, 21 Nov 2021 01:54:36 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-6.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>292</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 01:54:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 01:54:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 01:54:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 01:54:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[drawkit-vector-illustration-christmas-thanksgiving-6]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>285</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-6.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-6.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:4167;s:6:"height";i:4167;s:4:"file";s:64:"2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-6.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:64:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";}s:9:"2048x2048";a:4:{s:4:"file";s:66:"DrawKit-Vector-Illustration-Christmas-Thanksgiving-6-2048x2048.png";s:5:"width";i:2048;s:6:"height";i:2048;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:375698;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:163459;s:4:"type";s:9:"image/png";s:5:"width";i:4167;s:6:"height";i:4167;s:5:"ratio";d:0.4351;}s:3:"end";i:1637459688;}s:6:"medium";a:0:{}s:5:"large";a:3:{s:5:"input";a:2:{s:4:"size";i:119875;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:38163;s:4:"type";s:9:"image/png";s:5:"width";i:1024;s:6:"height";i:1024;s:5:"ratio";d:0.3184;}s:3:"end";i:1637476388;}s:9:"thumbnail";a:0:{}s:12:"medium_large";a:0:{}s:9:"1536x1536";a:0:{}s:9:"2048x2048";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[logo]]></title>
+		<link>https://www.themepush.com/demo-cailo/logo-2/</link>
+		<pubDate>Sun, 21 Nov 2021 02:20:47 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/logo-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>304</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 02:20:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-21 02:20:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 02:20:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 02:20:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/logo-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/11/logo-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:34;s:6:"height";i:40;s:4:"file";s:18:"2021/11/logo-1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[tiny_compress_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:643;s:4:"type";s:9:"image/png";}s:6:"output";a:5:{s:4:"size";i:553;s:4:"type";s:9:"image/png";s:5:"width";i:34;s:6:"height";i:40;s:5:"ratio";d:0.86;}s:3:"end";i:1637461249;}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://www.themepush.com/demo-cailo/about/</link>
+		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:lazyblock/cailo-marquee {"blockId":"Z1kaklL","blockUniqueClass":"lazyblock-cailo-marquee-Z1kaklL"} /-->
+
+<!-- wp:group {"backgroundColor":"white","textColor":"black","className":"px-0"} -->
+<div class="wp-block-group px-0 has-black-color has-white-background-color has-text-color has-background"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":6,"textColor":"black","fontSize":"small"} -->
+<h6 class="has-black-color has-text-color has-small-font-size">EASY DIGITAL DOWNLOADS</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.1","fontSize":"5vw"},"color":{"text":"#000000"}}} -->
+<p class="has-text-color" style="color:#000000;font-size:5vw;line-height:1.1">About.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":5} -->
+<div style="height:5px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.38%"} -->
+<div class="wp-block-column" style="flex-basis:33.38%"><!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">This is a demo for <a rel="noreferrer noopener" href="https://wowthemes.net/cailo-wordpress/" data-type="URL" data-id="https://wowthemes.net/cailo-wordpress/" target="_blank">Cailo WordPress theme</a> to showcase how illustration creators can sell their digital files. Nothing is actually sold on this website, no real payments are made. Everything is in test mode.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>Shop illustrations presented on this demo are real though, copyrighted DrawKit.com. You can download them for free at their respective website. I highly recommend them and I am deeply greatful for the resources shared.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"black","style":{"border":{"radius":50}},"className":"fadein is-style-outline mt-5"} -->
+<div class="wp-block-button fadein is-style-outline mt-5"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background" href="https://wowthemes.net/cailo-wordpress/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Try Cailo theme for free</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:image {"align":"left","id":64,"sizeSlug":"full","linkDestination":"none","className":"fadein"} -->
+<div class="wp-block-image fadein"><figure class="alignleft size-full"><img src="https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/Michael-Jordan-personal-autograph-300x187-1.png" alt="" class="wp-image-64"/></figure></div>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33%"} -->
+<div class="wp-block-column" style="flex-basis:33%"><!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none","className":"fadein"} -->
+<figure class="wp-block-image size-large fadein"><img src="https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-1-1024x1024.png" alt="" class="wp-image-21"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.62%"} -->
+<div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":27,"sizeSlug":"large","linkDestination":"none","className":"fadein"} -->
+<figure class="wp-block-image size-large fadein"><img src="https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-7-1024x1024.png" alt="" class="wp-image-27"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 03:39:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 03:39:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
+		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Checkout]]></title>
+		<link>https://www.themepush.com/demo-cailo/checkout/</link>
+		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/checkout/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->
+[download_checkout]
+<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 00:57:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 00:57:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[checkout]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_nelioefi_first_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shrink-content]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Purchase Confirmation]]></title>
+		<link>https://www.themepush.com/demo-cailo/checkout/purchase-confirmation/</link>
+		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/checkout/purchase-confirmation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->
+[edd_receipt]
+<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 00:56:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 00:56:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[purchase-confirmation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>3</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_nelioefi_first_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shrink-content]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Transaction Failed]]></title>
+		<link>https://www.themepush.com/demo-cailo/checkout/transaction-failed/</link>
+		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/checkout/transaction-failed/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Your transaction failed, please try again or contact site support.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-20 20:05:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[transaction-failed]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>3</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_nelioefi_first_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Purchase History]]></title>
+		<link>https://www.themepush.com/demo-cailo/checkout/purchase-history/</link>
+		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/checkout/purchase-history/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->
+[purchase_history]
+<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 00:57:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 00:57:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[purchase-history]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>3</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_nelioefi_first_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
+		<wp:meta_value><![CDATA[shrink-content]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://www.themepush.com/demo-cailo/home/</link>
+		<pubDate>Sat, 20 Nov 2021 22:37:34 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?p=70</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>70</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 00:37:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 22:37:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 00:37:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 00:37:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-11-20]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Illustrations]]></title>
+		<link>https://www.themepush.com/demo-cailo/illustrations/</link>
+		<pubDate>Sat, 20 Nov 2021 22:39:05 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?p=73</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>73</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-21 00:37:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 22:39:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 00:37:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 00:37:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[illustrations]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type_archive]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[download]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-11-20]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Disclaimer]]></title>
+		<link>https://www.themepush.com/demo-cailo/74/</link>
+		<pubDate>Sat, 20 Nov 2021 22:40:38 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?p=74</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>74</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-20 23:12:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 22:40:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-20 23:12:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-20 23:12:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[74]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://www.themepush.com/demo-cailo/75/</link>
+		<pubDate>Sat, 20 Nov 2021 22:40:38 +0000</pubDate>
+		<dc:creator><![CDATA[themepushwp]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?p=75</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>75</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-20 23:12:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 22:40:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-20 23:12:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-20 23:12:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[75]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3766,288 +3799,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[About]]></title>
-		<link>https://www.themepush.com/demo-cailo/about/</link>
-		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:lazyblock/cailo-marquee {"blockId":"Z1kaklL","blockUniqueClass":"lazyblock-cailo-marquee-Z1kaklL"} /-->
-
-<!-- wp:group {"backgroundColor":"white","textColor":"black","className":"px-0"} -->
-<div class="wp-block-group px-0 has-black-color has-white-background-color has-text-color has-background"><!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":6,"textColor":"black","fontSize":"small"} -->
-<h6 class="has-black-color has-text-color has-small-font-size">EASY DIGITAL DOWNLOADS</h6>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.1","fontSize":"5vw"},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:5vw;line-height:1.1">About.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":5} -->
-<div style="height:5px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.38%"} -->
-<div class="wp-block-column" style="flex-basis:33.38%"><!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">This is a demo for <a rel="noreferrer noopener" href="https://wowthemes.net/cailo-wordpress/" data-type="URL" data-id="https://wowthemes.net/cailo-wordpress/" target="_blank">Cailo WordPress theme</a> to showcase how illustration creators can sell their digital files. Nothing is actually sold on this website, no real payments are made. Everything is in test mode.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><br>Shop illustrations presented on this demo are real though, copyrighted DrawKit.com. You can download them for free at their respective website. I highly recommend them and I am deeply greatful for the resources shared.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"black","style":{"border":{"radius":50}},"className":"fadein is-style-outline mt-5"} -->
-<div class="wp-block-button fadein is-style-outline mt-5"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background" href="https://wowthemes.net/cailo-wordpress/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Try Cailo theme for free</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:image {"align":"left","id":64,"sizeSlug":"full","linkDestination":"none","className":"fadein"} -->
-<div class="wp-block-image fadein"><figure class="alignleft size-full"><img src="https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/Michael-Jordan-personal-autograph-300x187-1.png" alt="" class="wp-image-64"/></figure></div>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"33%"} -->
-<div class="wp-block-column" style="flex-basis:33%"><!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none","className":"fadein"} -->
-<figure class="wp-block-image size-large fadein"><img src="https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-1-1024x1024.png" alt="" class="wp-image-21"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"33.62%"} -->
-<div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":27,"sizeSlug":"large","linkDestination":"none","className":"fadein"} -->
-<figure class="wp-block-image size-large fadein"><img src="https://www.themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-7-1024x1024.png" alt="" class="wp-image-27"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 03:39:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 03:39:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
-		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Checkout]]></title>
-		<link>https://www.themepush.com/demo-cailo/checkout/</link>
-		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/checkout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
-[download_checkout]
-<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 00:57:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 00:57:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[checkout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_nelioefi_first_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
-		<wp:meta_value><![CDATA[shrink-content]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Purchase Confirmation]]></title>
-		<link>https://www.themepush.com/demo-cailo/checkout/purchase-confirmation/</link>
-		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/checkout/purchase-confirmation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
-[edd_receipt]
-<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 00:56:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 00:56:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[purchase-confirmation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>3</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_nelioefi_first_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
-		<wp:meta_value><![CDATA[shrink-content]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Transaction Failed]]></title>
-		<link>https://www.themepush.com/demo-cailo/checkout/transaction-failed/</link>
-		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/checkout/transaction-failed/</guid>
-		<description></description>
-		<content:encoded><![CDATA[Your transaction failed, please try again or contact site support.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-20 20:05:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[transaction-failed]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>3</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_nelioefi_first_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Purchase History]]></title>
-		<link>https://www.themepush.com/demo-cailo/checkout/purchase-history/</link>
-		<pubDate>Sat, 20 Nov 2021 20:05:24 +0000</pubDate>
-		<dc:creator><![CDATA[themepushwp]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-cailo/checkout/purchase-history/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
-[purchase_history]
-<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 00:57:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 00:57:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[purchase-history]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>3</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_nelioefi_first_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
-		<wp:meta_value><![CDATA[shrink-content]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Newsletter]]></title>
 		<link>https://www.themepush.com/demo-cailo/newsletter/</link>
 		<pubDate>Sat, 20 Nov 2021 20:09:11 +0000</pubDate>
@@ -4094,7 +3845,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Front]]></title>
+		<title><![CDATA[Home]]></title>
 		<link>https://www.themepush.com/demo-cailo/</link>
 		<pubDate>Sat, 20 Nov 2021 20:36:46 +0000</pubDate>
 		<dc:creator><![CDATA[themepushwp]]></dc:creator>
@@ -4125,11 +3876,11 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 20:36:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 20:36:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-20 23:02:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-20 23:02:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 06:31:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 06:31:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[front]]></wp:post_name>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
