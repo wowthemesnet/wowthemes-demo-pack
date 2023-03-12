@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2023-03-12 10:38" -->
+	<!-- generator="WordPress/6.1.1" created="2023-03-12 11:39" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mediumish</title>
 	<link>https://www.themepush.com/demo-mediumish</link>
 	<description>Just another Wordpress Themes site</description>
-	<pubDate>Sun, 12 Mar 2023 10:38:26 +0000</pubDate>
+	<pubDate>Sun, 12 Mar 2023 11:39:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://www.themepush.com/</wp:base_site_url>
@@ -3590,8 +3590,8 @@ Now that you know what to look for, you can use these tips to choose a reputable
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 01:33:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 01:33:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-11 18:11:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-11 18:11:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-12 11:39:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-12 11:39:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[five-tips-you-need-to-know-now-to-avoid-getting-scammed-by-roofing-contractors]]></wp:post_name>
@@ -3602,6 +3602,7 @@ Now that you know what to look for, you can use these tips to choose a reputable
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="marketing"><![CDATA[marketing]]></category>
+		<category domain="category" nicename="technology"><![CDATA[technology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4332,8 +4333,8 @@ While selecting your gear is half the fun, set aside the rods, reels, jigs, rigs
 		<wp:post_id>503</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-13 17:11:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-13 17:11:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 16:14:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 16:14:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-12 11:38:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-12 11:38:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[scientific-inquiry-into-the-wave-nature-of-light]]></wp:post_name>
@@ -4344,6 +4345,7 @@ While selecting your gear is half the fun, set aside the rods, reels, jigs, rigs
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="life"><![CDATA[life]]></category>
+		<category domain="category" nicename="technology"><![CDATA[technology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[504]]></wp:meta_value>
@@ -4463,8 +4465,8 @@ While selecting your gear is half the fun, set aside the rods, reels, jigs, rigs
 		<wp:post_id>506</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-13 17:21:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-13 17:21:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-06 07:05:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-06 07:05:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-12 11:38:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-12 11:38:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[post-materialism-science-and-what-it-means-for-us]]></wp:post_name>
@@ -4475,6 +4477,7 @@ While selecting your gear is half the fun, set aside the rods, reels, jigs, rigs
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="life"><![CDATA[life]]></category>
+		<category domain="category" nicename="technology"><![CDATA[technology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1519]]></wp:meta_value>
@@ -5069,7 +5072,7 @@ One caveat: If you’re thinking of contributing to a charity in someone else’
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pt_claps]]></wp:meta_key>
-		<wp:meta_value><![CDATA[228]]></wp:meta_value>
+		<wp:meta_value><![CDATA[229]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
