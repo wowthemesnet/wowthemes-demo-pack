@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2023-03-16 05:05" -->
+	<!-- generator="WordPress/6.1.1" created="2023-03-16 05:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mundana</title>
 	<link>https://www.themepush.com/demo-mundana</link>
 	<description>WordPress Theme Demo</description>
-	<pubDate>Thu, 16 Mar 2023 05:05:42 +0000</pubDate>
+	<pubDate>Thu, 16 Mar 2023 05:38:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://www.themepush.com/</wp:base_site_url>
@@ -201,7 +201,7 @@
 	</wp:tag>
 				<wp:term><wp:term_id>32</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[extra-menu]]></wp:term_slug><wp:term_name><![CDATA[Extra Menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>31</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
+	<wp:term><wp:term_id>31</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
 	<generator>https://wordpress.org/?v=6.1.1</generator>
@@ -1014,10 +1014,10 @@ Click the help icon above to learn more.
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>464</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-30 16:45:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-03-16 05:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-31 21:26:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-30 16:45:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 16:45:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[464]]></wp:post_name>
@@ -1027,7 +1027,7 @@ Click the help icon above to learn more.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
@@ -1068,6 +1068,10 @@ Click the help icon above to learn more.
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-01-31]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-30]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1079,10 +1083,10 @@ Click the help icon above to learn more.
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>465</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-30 16:45:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-03-16 05:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-31 21:26:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-30 16:45:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 16:45:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[465]]></wp:post_name>
@@ -1092,7 +1096,7 @@ Click the help icon above to learn more.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
@@ -1133,6 +1137,10 @@ Click the help icon above to learn more.
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-01-31]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-30]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1144,10 +1152,10 @@ Click the help icon above to learn more.
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>466</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-30 16:45:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-03-16 05:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-31 21:26:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-30 16:45:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 16:45:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[466]]></wp:post_name>
@@ -1157,7 +1165,7 @@ Click the help icon above to learn more.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
@@ -1198,6 +1206,10 @@ Click the help icon above to learn more.
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-01-31]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-30]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1209,10 +1221,10 @@ Click the help icon above to learn more.
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>467</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-30 16:45:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-03-16 05:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-31 21:26:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-30 16:45:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 16:45:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[467]]></wp:post_name>
@@ -1222,7 +1234,7 @@ Click the help icon above to learn more.
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
@@ -1262,6 +1274,10 @@ Click the help icon above to learn more.
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-01-31]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-30]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1531,18 +1547,13 @@ Click the help icon above to learn more.
 		<dc:creator><![CDATA[themepushwp]]></dc:creator>
 		<guid isPermaLink="false">https://www.themepush.com/demo-mundana/mundana/</guid>
 		<description></description>
-		<content:encoded><![CDATA[html.html-has-lrm {
-    overflow: unset !important;
-}
-.listrecent .card img.avatar {   height: auto;}
-body .wpuf-dashboard-container .wpuf-dashboard-content {padding-left:40px;}
-.site-content {min-height:70vh;}]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>997</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-13 12:23:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-13 12:23:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-07-21 20:04:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-07-21 20:04:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:14:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:14:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mundana]]></wp:post_name>
@@ -2545,10 +2556,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>468</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-30 16:45:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-03-16 05:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-31 21:26:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-30 16:45:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 16:45:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[468]]></wp:post_name>
@@ -2558,7 +2569,7 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2599,6 +2610,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-01-31]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-30]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2610,10 +2625,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>469</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-30 16:45:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-03-16 05:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-31 21:26:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-30 16:45:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 16:45:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[469]]></wp:post_name>
@@ -2623,7 +2638,7 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
@@ -2664,6 +2679,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-01-31]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-30]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
@@ -2675,10 +2694,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>574</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-30 16:45:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-03-16 05:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-01 13:43:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-30 16:45:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 16:45:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -2688,7 +2707,7 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -2725,6 +2744,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-02-01]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-30]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2736,10 +2759,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>794</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-30 16:45:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-03-16 05:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-01 22:03:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-30 16:45:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 16:45:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[794]]></wp:post_name>
@@ -2749,7 +2772,7 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2785,6 +2808,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-02-01]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-30]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2879,10 +2906,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2693</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-30 16:45:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-03-16 05:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-30 16:44:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-30 16:45:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 16:45:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[author]]></wp:post_name>
@@ -2892,7 +2919,7 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -2924,6 +2951,10 @@ The bombardment of Port Royal, heard and felt at St.Augustine, a hundred and fif
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://www.themepush.com/demo-mundana/author/nickname/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-30]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5031,7 +5062,21 @@ Doctors of chiropractic, who have a minimum seven years of higher learning, spec
 		<wp:meta_key><![CDATA[full_width_featured_image_full_width_featured_image_on_post]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>720</wp:comment_id>
+			<wp:comment_author><![CDATA[Buy blog links]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[xmcplk@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://seosklep.xmc.pl/kategoria-produktu/angielskie-komentarze/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[109.172.109.28]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-03-16 05:16:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-03-16 05:16:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Twoje posty są bardzo pouczające i angażujące. Uwielbiam sposób, w jaki prezentujesz informacje, dzięki czemu łatwo jest mi je zrozumieć. Nie mogę się doczekać kolejnych wpisów!]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title><![CDATA[A Paris street - set design for Act II of La bohème]]></title>
 		<link>https://www.themepush.com/demo-mundana/a-paris-street-set-design-for-act-ii-of-la-boheme/</link>
@@ -5453,158 +5498,6 @@ Doctors of chiropractic, who have a minimum seven years of higher learning, spec
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[full_width_featured_image_full_width_featured_image_on_post]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[Mundana] Please moderate: "The man born to be King"]]></title>
-		<link>https://www.themepush.com/demo-mundana/postman_sent_mail/mundana-please-moderate-the-man-born-to-be-king-33/</link>
-		<pubDate>Mon, 20 Dec 2021 06:55:12 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-mundana/?post_type=postman_sent_mail&#038;p=3018</guid>
-		<description></description>
-		<content:encoded><![CDATA[A new comment on the post "The man born to be King" is waiting for your approval
-https://www.themepush.com/demo-mundana/museums-are-permanent-place-eternal-soul/
-
-Author: Ryby :) (IP address: 94.249.154.198, 94.249.154.198)
-Email: xmcplk@gmail.com
-URL: https://www.nahaczyku.xmc.pl
-Comment: 
-The dominant theme in the foyer is medievalism with a life-sized knight in shining armor guarding the large double doors, and an equally threatening armored warhorse peeking around the corner.
-
-Approve it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=approve&amp;c=571#wpbody-content
-Trash it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=trash&amp;c=571#wpbody-content
-Spam it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=spam&amp;c=571#wpbody-content
-Currently 157 comments are waiting for approval. Please visit the moderation panel:
-https://www.themepush.com/demo-mundana/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3018</wp:post_id>
-		<wp:post_date><![CDATA[2021-12-20 06:55:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-12-20 06:55:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-20 06:55:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-20 06:55:12]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mundana-please-moderate-the-man-born-to-be-king-33]]></wp:post_name>
-		<wp:status><![CDATA[private]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[postman_sent_mail]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[solution]]></wp:meta_key>
-		<wp:meta_value><![CDATA[All good, mail sent.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[success]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[from_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Sal <wowthemesnet@gmail.com>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[to_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wowthemesnet@gmail.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[transport_uri]]></wp:meta_key>
-		<wp:meta_value><![CDATA[smtp:tls:oauth2://smtp.gmail.com:587]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[original_to]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wowthemesnet@gmail.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[original_subject]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[Mundana] Please moderate: "The man born to be King"]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[original_message]]></wp:meta_key>
-		<wp:meta_value><![CDATA[A new comment on the post "The man born to be King" is waiting for your approval
-https://www.themepush.com/demo-mundana/museums-are-permanent-place-eternal-soul/
-
-Author: Ryby :) (IP address: 94.249.154.198, 94.249.154.198)
-Email: xmcplk@gmail.com
-URL: https://www.nahaczyku.xmc.pl
-Comment: 
-The dominant theme in the foyer is medievalism with a life-sized knight in shining armor guarding the large double doors, and an equally threatening armored warhorse peeking around the corner.
-
-Approve it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=approve&c=571#wpbody-content
-Trash it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=trash&c=571#wpbody-content
-Spam it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=spam&c=571#wpbody-content
-Currently 157 comments are waiting for approval. Please visit the moderation panel:
-https://www.themepush.com/demo-mundana/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
-]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[original_headers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[session_transcript]]></wp:meta_key>
-		<wp:meta_value><![CDATA[smtp:tls:oauth2://smtp.gmail.com:587
-
-220 smtp.gmail.com ESMTP u66sm10859893pgc.9 - gsmtp
-EHLO themepush.com
-250-smtp.gmail.com at your service, [45.77.4.204]
-250-SIZE 35882577
-250-8BITMIME
-250-STARTTLS
-250-ENHANCEDSTATUSCODES
-250-PIPELINING
-250-CHUNKING
-250 SMTPUTF8
-STARTTLS
-220 2.0.0 Ready to start TLS
-EHLO themepush.com
-250-smtp.gmail.com at your service, [45.77.4.204]
-250-SIZE 35882577
-250-8BITMIME
-250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
-250-ENHANCEDSTATUSCODES
-250-PIPELINING
-250-CHUNKING
-250 SMTPUTF8
-AUTH XOAUTH2 dXNlcj13b3d0aGVtZXNuZXRAZ21haWwuY29tAWF1dGg9QmVhcmVyIHlhMjkuYTBBUnJkYU1fS2MwcHRLd3BlU213ejdwVExzNDlTZUdHZXU5XzduemZvaFdNR0gzS0VVWmhPUzQ0WTRtRXcwSzN4ZzNWc1hKM0JFRWVoMmdPWlU3RFBUUVlkaU5EaUZLcFpQa0syWGdpUGJrcmZvV2tWdlc2S0tCSmdGVkY2MkF6ZkpGS1QzZmd5NVVQeW5MaFhQWUNPYlpudW1mNDkxOUUBAQ==
-235 2.7.0 Accepted
-MAIL FROM:<wowthemesnet@gmail.com>
-250 2.1.0 OK u66sm10859893pgc.9 - gsmtp
-RCPT TO:<wowthemesnet@gmail.com>
-250 2.1.5 OK u66sm10859893pgc.9 - gsmtp
-DATA
-354  Go ahead u66sm10859893pgc.9 - gsmtp
-X-Mailer: Postman SMTP 2.0.23 for WordPress (https://wordpress.org/plugins/post-smtp/)
-Content-Type: text/plain; charset=UTF-8
-From: Sal <wowthemesnet@gmail.com>
-Sender: wowthemesnet@gmail.com
-To: wowthemesnet@gmail.com
-Message-Id: <82a69390afcf2c55964450c6f0f78821@themepush.com>
-Subject: [Mundana] Please moderate: "The man born to be King"
-Date: Mon, 20 Dec 2021 06:55:11 +0000
-Content-Transfer-Encoding: quoted-printable
-Content-Disposition: inline
-MIME-Version: 1.0
-
-A new comment on the post "The man born to be King" is waiting for your=
- approval=0D=0Ahttps://www.themepush.com/demo-mundana/museums-are-perman=
-ent-place-eternal-soul/=0D=0A=0D=0AAuthor: Ryby :) (IP address: 94.249.1=
-54.198, 94.249.154.198)=0D=0AEmail: xmcplk@gmail.com=0D=0AURL: https://w=
-ww.nahaczyku.xmc.pl=0D=0AComment: =0D=0AThe dominant theme in the foyer=
- is medievalism with a life-sized knight in shining armor guarding the l=
-arge double doors, and an equally threatening armored warhorse peeking a=
-round the corner.=0D=0A=0D=0AApprove it: https://www.themepush.com/demo-=
-mundana/wp-admin/comment.php?action=3Dapprove&c=3D571#wpbody-content=0D=
-=0ATrash it: https://www.themepush.com/demo-mundana/wp-admin/comment.php=
-?action=3Dtrash&c=3D571#wpbody-content=0D=0ASpam it: https://www.themepu=
-sh.com/demo-mundana/wp-admin/comment.php?action=3Dspam&c=3D571#wpbody-co=
-ntent=0D=0ACurrently 157 comments are waiting for approval. Please visit=
- the moderation panel:=0D=0Ahttps://www.themepush.com/demo-mundana/wp-ad=
-min/edit-comments.php?comment_status=3Dmoderated#wpbody-content=0D=0A
-.
-250 2.0.0 OK  1639983312 u66sm10859893pgc.9 - gsmtp
-]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -50014,6 +49907,172 @@ _status=3Dmoderated#wpbody-content=0D=0A
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[[Mundana] Please moderate: "Yes, this is the "sign" you've been looking for!"]]></title>
+		<link>https://www.themepush.com/demo-mundana/postman_sent_mail/mundana-please-moderate-yes-this-is-the-sign-youve-been-looking-for-6/</link>
+		<pubDate>Thu, 02 Mar 2023 01:50:58 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-mundana/?post_type=postman_sent_mail&#038;p=3293</guid>
+		<description></description>
+		<content:encoded><![CDATA[A new comment on the post "Yes, this is the "sign" you've been looking for!" is waiting for your approval
+https://www.themepush.com/demo-mundana/sign-you-looking-for/
+
+Author: ออกแบบบรรจุภัณฑ์ (IP address: 168.81.46.67, h.168-81-46-67.r.ftaires.com)
+Email: callienewhouse@moose-mail.com
+URL: https://www.design365days.com/Project/Category/3/%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C
+Comment: 
+This design is steller! You definitely know how to keep a reader 
+amused. Between your wit and your videos, 
+I was almost moved to start my own blog (well, almost...HaHa!) Fantastic job.
+I really loved what you had to say, and more than that, how you 
+presented it. Too cool!
+
+Approve it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=approve&amp;c=704#wpbody-content
+Trash it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=trash&amp;c=704#wpbody-content
+Spam it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=spam&amp;c=704#wpbody-content
+Currently 3 comments are waiting for approval. Please visit the moderation panel:
+https://www.themepush.com/demo-mundana/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3293</wp:post_id>
+		<wp:post_date><![CDATA[2023-03-02 01:50:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-03-02 01:50:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-03-02 01:50:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-02 01:50:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mundana-please-moderate-yes-this-is-the-sign-youve-been-looking-for-6]]></wp:post_name>
+		<wp:status><![CDATA[private]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[postman_sent_mail]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[solution]]></wp:meta_key>
+		<wp:meta_value><![CDATA[All good, mail sent.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[success]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[from_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Sal <wowthemesnet@gmail.com>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[to_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wowthemesnet@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[transport_uri]]></wp:meta_key>
+		<wp:meta_value><![CDATA[smtp:tls:oauth2://smtp.gmail.com:587]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[original_to]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wowthemesnet@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[original_subject]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[Mundana] Please moderate: "Yes, this is the "sign" you've been looking for!"]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[original_message]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A new comment on the post "Yes, this is the "sign" you've been looking for!" is waiting for your approval
+https://www.themepush.com/demo-mundana/sign-you-looking-for/
+
+Author: ออกแบบบรรจุภัณฑ์ (IP address: 168.81.46.67, h.168-81-46-67.r.ftaires.com)
+Email: callienewhouse@moose-mail.com
+URL: https://www.design365days.com/Project/Category/3/%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C
+Comment: 
+This design is steller! You definitely know how to keep a reader 
+amused. Between your wit and your videos, 
+I was almost moved to start my own blog (well, almost...HaHa!) Fantastic job.
+I really loved what you had to say, and more than that, how you 
+presented it. Too cool!
+
+Approve it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=approve&c=704#wpbody-content
+Trash it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=trash&c=704#wpbody-content
+Spam it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=spam&c=704#wpbody-content
+Currently 3 comments are waiting for approval. Please visit the moderation panel:
+https://www.themepush.com/demo-mundana/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[original_headers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[session_transcript]]></wp:meta_key>
+		<wp:meta_value><![CDATA[smtp:tls:oauth2://smtp.gmail.com:587
+
+220 smtp.gmail.com ESMTP w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
+EHLO themepush.com
+250-smtp.gmail.com at your service, [45.77.4.204]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+STARTTLS
+220 2.0.0 Ready to start TLS
+EHLO themepush.com
+250-smtp.gmail.com at your service, [45.77.4.204]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+AUTH XOAUTH2 dXNlcj13b3d0aGVtZXNuZXRAZ21haWwuY29tAWF1dGg9QmVhcmVyIHlhMjkuYTBBVnZaVnNwVlE3c2U0aHk3S29vQXk3N1ctX0xpM2lzWFk1XzhtYVoweVZ3T2tsQ1dUbmlxS21HdEwycDJUZ3VxX0Z4UjFudmZ1c1BBYVM1Y280SlV2U1ZKZms0bFZfclY3VXg1dDd5X19BNFl0WTRieG5QWjk0amZVRGk0Wm1TY2dUUmdxdWdGOXdCTWhCdlVPb0ZIbXBpdGtGbjdrM0NaN2dhQ2dZS0FZb1NBUk1TRlFHYmR3YUl1SDYwY0xSV3ltS3d1WVBac3pEamJ3MDE2OQEB
+235 2.7.0 Accepted
+MAIL FROM:<wowthemesnet@gmail.com>
+250 2.1.0 OK w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
+RCPT TO:<wowthemesnet@gmail.com>
+250 2.1.5 OK w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
+DATA
+354  Go ahead w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
+X-Mailer: Postman SMTP 2.0.23 for WordPress (https://wordpress.org/plugins/post-smtp/)
+Content-Type: text/plain; charset=UTF-8
+From: Sal <wowthemesnet@gmail.com>
+Sender: wowthemesnet@gmail.com
+To: wowthemesnet@gmail.com
+Message-Id: <238987cbee92a11e411bf7fb9aa6dcd4@themepush.com>
+Subject: [Mundana] Please moderate: "Yes, this is the "sign" you've been looking for!"
+Date: Thu, 02 Mar 2023 01:50:56 +0000
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+MIME-Version: 1.0
+
+A new comment on the post "Yes, this is the "sign" you've been looking f=
+or!" is waiting for your approval=0D=0Ahttps://www.themepush.com/demo-mu=
+ndana/sign-you-looking-for/=0D=0A=0D=0AAuthor: =E0=B8=AD=E0=B8=AD=E0=B8=
+=81=E0=B9=81=E0=B8=9A=E0=B8=9A=E0=B8=9A=E0=B8=A3=E0=B8=A3=E0=B8=88=E0=B8=
+=B8=E0=B8=A0=E0=B8=B1=E0=B8=93=E0=B8=91=E0=B9=8C (IP address: 168.81.46.=
+67, h.168-81-46-67.r.ftaires.com)=0D=0AEmail: callienewhouse@moose-mail.=
+com=0D=0AURL: https://www.design365days.com/Project/Category/3/%E0%B8%AD=
+%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%A3=
+%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C=0D=0ACom=
+ment: =0D=0AThis design is steller! You definitely know how to keep a re=
+ader =0D=0Aamused. Between your wit and your videos, =0D=0AI was almost=
+ moved to start my own blog (well, almost...HaHa!) Fantastic job.=0D=0AI=
+ really loved what you had to say, and more than that, how you =0D=0Apre=
+sented it. Too cool!=0D=0A=0D=0AApprove it: https://www.themepush.com/de=
+mo-mundana/wp-admin/comment.php?action=3Dapprove&c=3D704#wpbody-content=
+=0D=0ATrash it: https://www.themepush.com/demo-mundana/wp-admin/comment.=
+php?action=3Dtrash&c=3D704#wpbody-content=0D=0ASpam it: https://www.them=
+epush.com/demo-mundana/wp-admin/comment.php?action=3Dspam&c=3D704#wpbody=
+-content=0D=0ACurrently 3 comments are waiting for approval. Please visi=
+t the moderation panel:=0D=0Ahttps://www.themepush.com/demo-mundana/wp-a=
+dmin/edit-comments.php?comment_status=3Dmoderated#wpbody-content=0D=0A
+.
+250 2.0.0 OK  1677721857 w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
+]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Sample Form]]></title>
 		<link>https://www.themepush.com/demo-mundana/wpuf_forms/sample-form/</link>
 		<pubDate>Thu, 31 Jan 2019 19:03:21 +0000</pubDate>
@@ -50213,172 +50272,6 @@ This e-mail was sent from a contact form on Mundana (https://www.themepush.com/d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[[Mundana] Please moderate: "Yes, this is the "sign" you've been looking for!"]]></title>
-		<link>https://www.themepush.com/demo-mundana/postman_sent_mail/mundana-please-moderate-yes-this-is-the-sign-youve-been-looking-for-6/</link>
-		<pubDate>Thu, 02 Mar 2023 01:50:58 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://www.themepush.com/demo-mundana/?post_type=postman_sent_mail&#038;p=3293</guid>
-		<description></description>
-		<content:encoded><![CDATA[A new comment on the post "Yes, this is the "sign" you've been looking for!" is waiting for your approval
-https://www.themepush.com/demo-mundana/sign-you-looking-for/
-
-Author: ออกแบบบรรจุภัณฑ์ (IP address: 168.81.46.67, h.168-81-46-67.r.ftaires.com)
-Email: callienewhouse@moose-mail.com
-URL: https://www.design365days.com/Project/Category/3/%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C
-Comment: 
-This design is steller! You definitely know how to keep a reader 
-amused. Between your wit and your videos, 
-I was almost moved to start my own blog (well, almost...HaHa!) Fantastic job.
-I really loved what you had to say, and more than that, how you 
-presented it. Too cool!
-
-Approve it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=approve&amp;c=704#wpbody-content
-Trash it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=trash&amp;c=704#wpbody-content
-Spam it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=spam&amp;c=704#wpbody-content
-Currently 3 comments are waiting for approval. Please visit the moderation panel:
-https://www.themepush.com/demo-mundana/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3293</wp:post_id>
-		<wp:post_date><![CDATA[2023-03-02 01:50:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-03-02 01:50:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-03-02 01:50:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-03-02 01:50:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mundana-please-moderate-yes-this-is-the-sign-youve-been-looking-for-6]]></wp:post_name>
-		<wp:status><![CDATA[private]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[postman_sent_mail]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[solution]]></wp:meta_key>
-		<wp:meta_value><![CDATA[All good, mail sent.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[success]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[from_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Sal <wowthemesnet@gmail.com>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[to_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wowthemesnet@gmail.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[transport_uri]]></wp:meta_key>
-		<wp:meta_value><![CDATA[smtp:tls:oauth2://smtp.gmail.com:587]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[original_to]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wowthemesnet@gmail.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[original_subject]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[Mundana] Please moderate: "Yes, this is the "sign" you've been looking for!"]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[original_message]]></wp:meta_key>
-		<wp:meta_value><![CDATA[A new comment on the post "Yes, this is the "sign" you've been looking for!" is waiting for your approval
-https://www.themepush.com/demo-mundana/sign-you-looking-for/
-
-Author: ออกแบบบรรจุภัณฑ์ (IP address: 168.81.46.67, h.168-81-46-67.r.ftaires.com)
-Email: callienewhouse@moose-mail.com
-URL: https://www.design365days.com/Project/Category/3/%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C
-Comment: 
-This design is steller! You definitely know how to keep a reader 
-amused. Between your wit and your videos, 
-I was almost moved to start my own blog (well, almost...HaHa!) Fantastic job.
-I really loved what you had to say, and more than that, how you 
-presented it. Too cool!
-
-Approve it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=approve&c=704#wpbody-content
-Trash it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=trash&c=704#wpbody-content
-Spam it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=spam&c=704#wpbody-content
-Currently 3 comments are waiting for approval. Please visit the moderation panel:
-https://www.themepush.com/demo-mundana/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
-]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[original_headers]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[session_transcript]]></wp:meta_key>
-		<wp:meta_value><![CDATA[smtp:tls:oauth2://smtp.gmail.com:587
-
-220 smtp.gmail.com ESMTP w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
-EHLO themepush.com
-250-smtp.gmail.com at your service, [45.77.4.204]
-250-SIZE 35882577
-250-8BITMIME
-250-STARTTLS
-250-ENHANCEDSTATUSCODES
-250-PIPELINING
-250-CHUNKING
-250 SMTPUTF8
-STARTTLS
-220 2.0.0 Ready to start TLS
-EHLO themepush.com
-250-smtp.gmail.com at your service, [45.77.4.204]
-250-SIZE 35882577
-250-8BITMIME
-250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
-250-ENHANCEDSTATUSCODES
-250-PIPELINING
-250-CHUNKING
-250 SMTPUTF8
-AUTH XOAUTH2 dXNlcj13b3d0aGVtZXNuZXRAZ21haWwuY29tAWF1dGg9QmVhcmVyIHlhMjkuYTBBVnZaVnNwVlE3c2U0aHk3S29vQXk3N1ctX0xpM2lzWFk1XzhtYVoweVZ3T2tsQ1dUbmlxS21HdEwycDJUZ3VxX0Z4UjFudmZ1c1BBYVM1Y280SlV2U1ZKZms0bFZfclY3VXg1dDd5X19BNFl0WTRieG5QWjk0amZVRGk0Wm1TY2dUUmdxdWdGOXdCTWhCdlVPb0ZIbXBpdGtGbjdrM0NaN2dhQ2dZS0FZb1NBUk1TRlFHYmR3YUl1SDYwY0xSV3ltS3d1WVBac3pEamJ3MDE2OQEB
-235 2.7.0 Accepted
-MAIL FROM:<wowthemesnet@gmail.com>
-250 2.1.0 OK w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
-RCPT TO:<wowthemesnet@gmail.com>
-250 2.1.5 OK w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
-DATA
-354  Go ahead w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
-X-Mailer: Postman SMTP 2.0.23 for WordPress (https://wordpress.org/plugins/post-smtp/)
-Content-Type: text/plain; charset=UTF-8
-From: Sal <wowthemesnet@gmail.com>
-Sender: wowthemesnet@gmail.com
-To: wowthemesnet@gmail.com
-Message-Id: <238987cbee92a11e411bf7fb9aa6dcd4@themepush.com>
-Subject: [Mundana] Please moderate: "Yes, this is the "sign" you've been looking for!"
-Date: Thu, 02 Mar 2023 01:50:56 +0000
-Content-Transfer-Encoding: quoted-printable
-Content-Disposition: inline
-MIME-Version: 1.0
-
-A new comment on the post "Yes, this is the "sign" you've been looking f=
-or!" is waiting for your approval=0D=0Ahttps://www.themepush.com/demo-mu=
-ndana/sign-you-looking-for/=0D=0A=0D=0AAuthor: =E0=B8=AD=E0=B8=AD=E0=B8=
-=81=E0=B9=81=E0=B8=9A=E0=B8=9A=E0=B8=9A=E0=B8=A3=E0=B8=A3=E0=B8=88=E0=B8=
-=B8=E0=B8=A0=E0=B8=B1=E0=B8=93=E0=B8=91=E0=B9=8C (IP address: 168.81.46.=
-67, h.168-81-46-67.r.ftaires.com)=0D=0AEmail: callienewhouse@moose-mail.=
-com=0D=0AURL: https://www.design365days.com/Project/Category/3/%E0%B8%AD=
-%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%A3=
-%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C=0D=0ACom=
-ment: =0D=0AThis design is steller! You definitely know how to keep a re=
-ader =0D=0Aamused. Between your wit and your videos, =0D=0AI was almost=
- moved to start my own blog (well, almost...HaHa!) Fantastic job.=0D=0AI=
- really loved what you had to say, and more than that, how you =0D=0Apre=
-sented it. Too cool!=0D=0A=0D=0AApprove it: https://www.themepush.com/de=
-mo-mundana/wp-admin/comment.php?action=3Dapprove&c=3D704#wpbody-content=
-=0D=0ATrash it: https://www.themepush.com/demo-mundana/wp-admin/comment.=
-php?action=3Dtrash&c=3D704#wpbody-content=0D=0ASpam it: https://www.them=
-epush.com/demo-mundana/wp-admin/comment.php?action=3Dspam&c=3D704#wpbody=
--content=0D=0ACurrently 3 comments are waiting for approval. Please visi=
-t the moderation panel:=0D=0Ahttps://www.themepush.com/demo-mundana/wp-a=
-dmin/edit-comments.php?comment_status=3Dmoderated#wpbody-content=0D=0A
-.
-250 2.0.0 OK  1677721857 w2-20020a170902d70200b0019a7c890c61sm8985332ply.252 - gsmtp
-]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -53728,6 +53621,159 @@ nt=0D=0ACurrently 18 comments are waiting for approval. Please visit the=
 edit-comments.php?comment_status=3Dmoderated#wpbody-content=0D=0A
 .
 250 2.0.0 OK  1678758255 i14-20020aa787ce000000b0059072daa002sm318330pfo.192 - gsmtp
+]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[[Mundana] Please moderate: "The Bohemian "movement" of 19th Century Paris"]]></title>
+		<link>https://www.themepush.com/demo-mundana/postman_sent_mail/mundana-please-moderate-the-bohemian-movement-of-19th-century-paris-19/</link>
+		<pubDate>Thu, 16 Mar 2023 05:16:58 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://www.themepush.com/demo-mundana/?post_type=postman_sent_mail&#038;p=3339</guid>
+		<description></description>
+		<content:encoded><![CDATA[A new comment on the post "The Bohemian "movement" of 19th Century Paris" is waiting for your approval
+https://www.themepush.com/demo-mundana/the-bohemian-movement-of-19th-century-paris/
+
+Author: Buy blog links (IP address: 109.172.109.28, 109.172.109.28)
+Email: xmcplk@gmail.com
+URL: https://seosklep.xmc.pl/kategoria-produktu/angielskie-komentarze/
+Comment: 
+Twoje posty są bardzo pouczające i angażujące. Uwielbiam sposób, w jaki prezentujesz informacje, dzięki czemu łatwo jest mi je zrozumieć. Nie mogę się doczekać kolejnych wpisów!
+
+Approve it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=approve&amp;c=720#wpbody-content
+Trash it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=trash&amp;c=720#wpbody-content
+Spam it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=spam&amp;c=720#wpbody-content
+Currently 1 comment is waiting for approval. Please visit the moderation panel:
+https://www.themepush.com/demo-mundana/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3339</wp:post_id>
+		<wp:post_date><![CDATA[2023-03-16 05:16:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-03-16 05:16:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-03-16 05:16:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-16 05:16:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mundana-please-moderate-the-bohemian-movement-of-19th-century-paris-19]]></wp:post_name>
+		<wp:status><![CDATA[private]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[postman_sent_mail]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[solution]]></wp:meta_key>
+		<wp:meta_value><![CDATA[All good, mail sent.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[success]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[from_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Sal <wowthemesnet@gmail.com>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[to_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wowthemesnet@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[transport_uri]]></wp:meta_key>
+		<wp:meta_value><![CDATA[smtp:tls:oauth2://smtp.gmail.com:587]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[original_to]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wowthemesnet@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[original_subject]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[Mundana] Please moderate: "The Bohemian "movement" of 19th Century Paris"]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[original_message]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A new comment on the post "The Bohemian "movement" of 19th Century Paris" is waiting for your approval
+https://www.themepush.com/demo-mundana/the-bohemian-movement-of-19th-century-paris/
+
+Author: Buy blog links (IP address: 109.172.109.28, 109.172.109.28)
+Email: xmcplk@gmail.com
+URL: https://seosklep.xmc.pl/kategoria-produktu/angielskie-komentarze/
+Comment: 
+Twoje posty są bardzo pouczające i angażujące. Uwielbiam sposób, w jaki prezentujesz informacje, dzięki czemu łatwo jest mi je zrozumieć. Nie mogę się doczekać kolejnych wpisów!
+
+Approve it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=approve&c=720#wpbody-content
+Trash it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=trash&c=720#wpbody-content
+Spam it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?action=spam&c=720#wpbody-content
+Currently 1 comment is waiting for approval. Please visit the moderation panel:
+https://www.themepush.com/demo-mundana/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[original_headers]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[session_transcript]]></wp:meta_key>
+		<wp:meta_value><![CDATA[smtp:tls:oauth2://smtp.gmail.com:587
+
+220 smtp.gmail.com ESMTP p18-20020a634f52000000b0049f5da82b12sm4060200pgl.93 - gsmtp
+EHLO themepush.com
+250-smtp.gmail.com at your service, [45.77.4.204]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+STARTTLS
+220 2.0.0 Ready to start TLS
+EHLO themepush.com
+250-smtp.gmail.com at your service, [45.77.4.204]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+AUTH XOAUTH2 dXNlcj13b3d0aGVtZXNuZXRAZ21haWwuY29tAWF1dGg9QmVhcmVyIHlhMjkuYTBBVnZaVnNydHltOWdvMExnSG53bGpSOU81cXh5cVZ3SU9TMDUxWmZoRy1HeGdUQnpmeE1LNFdwQklPRk14TU1kQUJGZ3o4ZzVlbnhwc3lEN0tqcnFSM05CRDJYSGx1d2Q0NXN1Mk1iakxDcE1QcFZEY2REdi1PbXl2RVRWQXhDcXF3ZUNrSWczeGRqOWEyWEpOZ3lKcUhaMzU5U1I4Y2d3dVFhQ2dZS0FaY1NBUk1TRlFHYmR3YUlURWlGTDJVdjlxNFNSeXJFRExUNDRRMDE2OQEB
+235 2.7.0 Accepted
+MAIL FROM:<wowthemesnet@gmail.com>
+250 2.1.0 OK p18-20020a634f52000000b0049f5da82b12sm4060200pgl.93 - gsmtp
+RCPT TO:<wowthemesnet@gmail.com>
+250 2.1.5 OK p18-20020a634f52000000b0049f5da82b12sm4060200pgl.93 - gsmtp
+DATA
+354  Go ahead p18-20020a634f52000000b0049f5da82b12sm4060200pgl.93 - gsmtp
+X-Mailer: Postman SMTP 2.4.5 for WordPress (https://wordpress.org/plugins/post-smtp/)
+Content-Type: text/plain; charset=UTF-8
+From: Sal <wowthemesnet@gmail.com>
+To: wowthemesnet@gmail.com
+Message-Id: <4d010bbc81f21e1dded8216ccebe4484@themepush.com>
+Subject: [Mundana] Please moderate: "The Bohemian "movement" of 19th Century Paris"
+Date: Thu, 16 Mar 2023 05:16:57 +0000
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+MIME-Version: 1.0
+
+A new comment on the post "The Bohemian "movement" of 19th Century Paris=
+" is waiting for your approval=0D=0Ahttps://www.themepush.com/demo-munda=
+na/the-bohemian-movement-of-19th-century-paris/=0D=0A=0D=0AAuthor: Buy b=
+log links (IP address: 109.172.109.28, 109.172.109.28)=0D=0AEmail: xmcpl=
+k@gmail.com=0D=0AURL: https://seosklep.xmc.pl/kategoria-produktu/angiels=
+kie-komentarze/=0D=0AComment: =0D=0ATwoje posty s=C4=85 bardzo pouczaj=
+=C4=85ce i anga=C5=BCuj=C4=85ce. Uwielbiam spos=C3=B3b, w jaki prezentuj=
+esz informacje, dzi=C4=99ki czemu =C5=82atwo jest mi je zrozumie=C4=87.=
+ Nie mog=C4=99 si=C4=99 doczeka=C4=87 kolejnych wpis=C3=B3w!=0D=0A=0D=0A=
+Approve it: https://www.themepush.com/demo-mundana/wp-admin/comment.php?=
+action=3Dapprove&c=3D720#wpbody-content=0D=0ATrash it: https://www.theme=
+push.com/demo-mundana/wp-admin/comment.php?action=3Dtrash&c=3D720#wpbody=
+-content=0D=0ASpam it: https://www.themepush.com/demo-mundana/wp-admin/c=
+omment.php?action=3Dspam&c=3D720#wpbody-content=0D=0ACurrently 1 comment=
+ is waiting for approval. Please visit the moderation panel:=0D=0Ahttps:=
+//www.themepush.com/demo-mundana/wp-admin/edit-comments.php?comment_stat=
+us=3Dmoderated#wpbody-content=0D=0A
+.
+250 2.0.0 OK  1678943818 p18-20020a634f52000000b0049f5da82b12sm4060200pgl.93 - gsmtp
 ]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
