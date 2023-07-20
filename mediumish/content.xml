@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-07-18 09:26" -->
+	<!-- generator="WordPress/6.2.2" created="2023-07-20 10:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mediumish</title>
 	<link>https://themepush.com/demo-mediumish</link>
 	<description>Just another Wordpress Themes site</description>
-	<pubDate>Tue, 18 Jul 2023 09:26:58 +0000</pubDate>
+	<pubDate>Thu, 20 Jul 2023 10:16:49 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themepush.com/</wp:base_site_url>
@@ -5339,7 +5339,7 @@ The following tips will help you get prepped for this year’s hunting season:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pt_claps]]></wp:meta_key>
-		<wp:meta_value><![CDATA[182]]></wp:meta_value>
+		<wp:meta_value><![CDATA[183]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5575,7 +5575,7 @@ Take care of yourself.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pt_claps]]></wp:meta_key>
-		<wp:meta_value><![CDATA[106]]></wp:meta_value>
+		<wp:meta_value><![CDATA[107]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
