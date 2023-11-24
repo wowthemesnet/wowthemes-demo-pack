@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-07-17 16:51" -->
+	<!-- generator="WordPress/6.3.2" created="2023-11-24 12:44" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Cailo</title>
 	<link>https://themepush.com/demo-cailo</link>
 	<description>Just another Wordpress Themes site</description>
-	<pubDate>Mon, 17 Jul 2023 16:51:53 +0000</pubDate>
+	<pubDate>Fri, 24 Nov 2023 12:44:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themepush.com/</wp:base_site_url>
@@ -101,7 +101,7 @@
 	<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-right]]></wp:term_slug><wp:term_name><![CDATA[Top Right]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 		<item>
 		<title><![CDATA[Marketing Pack]]></title>
@@ -761,6 +761,152 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[Santoria Pack]]></title>
+		<link>https://themepush.com/demo-cailo/downloads/santoria-pack/</link>
+		<pubDate>Sat, 20 Nov 2021 22:24:03 +0000</pubDate>
+		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://themepush.com/demo-cailo/?post_type=download&#038;p=57</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"color":{"background":"#ffcfdb"}},"textColor":"black","className":"mb-0 fadein"} -->
+<div class="wp-block-group alignwide mb-0 fadein has-black-color has-text-color has-background" style="background-color:#ffcfdb"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":6,"style":{"color":{"text":"#000000"}}} -->
+<h6 class="has-text-color" style="color:#000000">INCLUDED WITH THE PACK</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.1","fontSize":"75px"},"color":{"text":"#000000"}}} -->
+<p class="has-text-color" style="color:#000000;font-size:75px;line-height:1.1">Royalty Free.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":5} -->
+<div style="height:5px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.38%"} -->
+<div class="wp-block-column" style="flex-basis:33.38%"><!-- wp:paragraph {"style":{"color":{"text":"#000000"}},"fontSize":"extra-small"} -->
+<p class="has-text-color has-extra-small-font-size" style="color:#000000"><em>Nature</em>, in the common sense, refers to essences unchanged by man; space, the air, the river, the leaf.&nbsp;<em>Art</em>&nbsp;is applied to the mixture of his will with the same things, as in a house, a canal, a statue, a picture. But his operations taken together are so insignificant, a little chipping, baking, patching, and washing, that in an impression so grand as that of the world on the human mind, they do not vary the result.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33%"} -->
+<div class="wp-block-column" style="flex-basis:33%"><!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"id":30,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-10-1024x1024.png" alt="" class="wp-image-30"/><figcaption>Use for social media, websites, magazines.</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.62%"} -->
+<div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":29,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-9-1024x1024.png" alt="" class="wp-image-29"/><figcaption>AI, PNG, SVG</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"67%"} -->
+<div class="wp-block-column" style="flex-basis:67%"><!-- wp:image {"align":"right","id":28,"sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="alignright size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-8-1024x1024.png" alt="" class="wp-image-28"/><figcaption>* Everything included.</figcaption></figure></div>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"33%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33%"><!-- wp:paragraph {"style":{"color":{"text":"#000000"}},"fontSize":"extra-small"} -->
+<p class="has-text-color has-extra-small-font-size" style="color:#000000">Undoubtedly we have no questions to ask which are unanswerable. We must trust the perfection of the creation so far, as to believe that whatever curiosity the order of things has awakened in our minds, the order of things can satisfy. Every man's condition is a solution in hieroglyphic to those inquiries he would put.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[A great Santoria pack for social.]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-20 22:24:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 22:24:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-21 06:30:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-21 06:30:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[santoria-pack]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[download]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="download_tag" nicename="ai"><![CDATA[AI]]></category>
+		<category domain="download_category" nicename="colorful"><![CDATA[Colorful]]></category>
+		<category domain="download_tag" nicename="png"><![CDATA[PNG]]></category>
+		<category domain="download_tag" nicename="svg"><![CDATA[SVG]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edd_download_earnings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95.000000]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edd_download_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[edd_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[19.00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[edd_variable_prices]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[edd_download_files]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;a:6:{s:5:"index";s:1:"0";s:13:"attachment_id";s:2:"45";s:14:"thumbnail_size";s:5:"large";s:4:"name";s:9:"File Test";s:4:"file";s:83:"https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/inside.png";s:9:"condition";s:3:"all";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edd_bundled_products]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:1:"0";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edd_bundled_products_conditions]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:3:"all";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
+		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edd_download_gross_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edd_download_gross_earnings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[DrawKit-Vector-Illustration-ecommerce-01]]></title>
 		<link>https://themepush.com/demo-cailo/what-is-brand/drawkit-vector-illustration-ecommerce-01/</link>
 		<pubDate>Sun, 21 Nov 2021 01:39:21 +0000</pubDate>
@@ -942,39 +1088,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[abhishek-rai-kostsFVW59s-unsplash]]></title>
-		<link>https://themepush.com/demo-cailo/cailohome/abhishek-rai-kostsfvw59s-unsplash/</link>
-		<pubDate>Fri, 09 Jun 2023 16:14:53 +0000</pubDate>
-		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/06/abhishek-rai-kostsFVW59s-unsplash.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>767</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-09 16:14:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-06-09 16:14:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-09 16:14:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-09 16:14:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[abhishek-rai-kostsfvw59s-unsplash]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>10</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/06/abhishek-rai-kostsFVW59s-unsplash.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/06/abhishek-rai-kostsFVW59s-unsplash.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:512;s:4:"file";s:45:"2023/06/abhishek-rai-kostsFVW59s-unsplash.jpg";s:8:"filesize";i:61966;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:45:"abhishek-rai-kostsFVW59s-unsplash-300x240.jpg";s:5:"width";i:300;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15999;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"abhishek-rai-kostsFVW59s-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9097;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[s-l1600]]></title>
 		<link>https://themepush.com/demo-cailo/cailohome/s-l1600/</link>
 		<pubDate>Fri, 09 Jun 2023 16:16:51 +0000</pubDate>
@@ -1008,7 +1121,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[stefan-stefancik-pzA7QWNCIYg-unsplash]]></title>
+		<title><![CDATA[]]></title>
 		<link>https://themepush.com/demo-cailo/cailohome/stefan-stefancik-pza7qwnciyg-unsplash/</link>
 		<pubDate>Fri, 09 Jun 2023 16:22:22 +0000</pubDate>
 		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
@@ -1019,8 +1132,8 @@
 		<wp:post_id>782</wp:post_id>
 		<wp:post_date><![CDATA[2023-06-09 16:22:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-06-09 16:22:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-09 16:22:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-09 16:22:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-24 12:42:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-24 12:42:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stefan-stefancik-pza7qwnciyg-unsplash]]></wp:post_name>
@@ -1141,6 +1254,10 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_loading_disable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -1379,9 +1496,15 @@
 		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://themepush.com/demo-cailo/?page_id=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:lazyblock/cailo-marquee {"blockId":"28E8Nz","blockUniqueClass":"lazyblock-cailo-marquee-28E8Nz"} /-->
+		<content:encoded><![CDATA[<!-- wp:shortcode -->
+[cailo_marquee text="SALE 20% off on all our illustrations. Offer is available this week only!"]
+<!-- /wp:shortcode -->
 
-<!-- wp:lazyblock/cailo-hero {"cailo-hero-rotating-text":"%5B%7B%22cailo-hero-rotating-text-span%22:%22podcasts%22%7D,%7B%22cailo-hero-rotating-text-span%22:%22books%22%7D,%7B%22cailo-hero-rotating-text-span%22:%22websites%22%7D%5D","cailo-hero-image":"%7B%22alt%22:%22%22,%22title%22:%22intro%22,%22caption%22:%22%22,%22description%22:%22%22,%22id%22:765,%22link%22:%22https://themepush.com/demo-cailo/cailohome/intro/%22,%22url%22:%22https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/05/intro.png%22,%22sizes%22:%7B%22thumbnail%22:%7B%22height%22:150,%22width%22:150,%22url%22:%22https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/05/intro-150x150.png%22,%22orientation%22:%22landscape%22%7D,%22medium%22:%7B%22height%22:225,%22width%22:300,%22url%22:%22https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/05/intro-300x225.png%22,%22orientation%22:%22landscape%22%7D,%22large%22:%7B%22height%22:768,%22width%22:1024,%22url%22:%22https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/05/intro-1024x768.png%22,%22orientation%22:%22landscape%22%7D,%22full%22:%7B%22url%22:%22https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/05/intro.png%22,%22height%22:960,%22width%22:1280,%22orientation%22:%22landscape%22%7D%7D%7D","lazyblock":{"slug":"lazyblock/cailo-hero"},"blockId":"4x6KK","blockUniqueClass":"lazyblock-cailo-hero-4x6KK"} /-->
+<!-- wp:media-text {"align":"","mediaPosition":"right","mediaId":765,"mediaLink":"https://themepush.com/demo-cailo/cailohome/intro/","mediaType":"image","verticalAlignment":"center","imageFill":false,"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0"}}},"className":"is-style-default cailo-hero"} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center is-style-default cailo-hero" style="padding-top:0;padding-bottom:0;padding-left:0"><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"style":{"color":{"text":"#000000"},"typography":{"fontSize":"80px","fontStyle":"normal","fontWeight":"100"}},"className":"display-1 fadein"} -->
+<h1 class="wp-block-heading display-1 fadein has-text-color" style="color:#000000;font-size:80px;font-style:normal;font-weight:100">Crafted illustrations for your Projects</h1>
+<!-- /wp:heading --></div><figure class="wp-block-media-text__media"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/05/intro-1024x768.png" alt="" class="wp-image-765 size-full"/></figure></div>
+<!-- /wp:media-text -->
 
 <!-- wp:shortcode -->
 [edd-categories]
@@ -1391,21 +1514,21 @@
 [downloads number="30"]
 <!-- /wp:shortcode -->
 
-<!-- wp:media-text {"align":"","mediaId":767,"mediaLink":"https://themepush.com/demo-cailo/cailohome/abhishek-rai-kostsfvw59s-unsplash/","mediaType":"image","mediaSizeSlug":"medium","verticalAlignment":"center","imageFill":false,"className":"m-top"} -->
-<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center m-top"><figure class="wp-block-media-text__media"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/06/abhishek-rai-kostsFVW59s-unsplash.jpg" alt="" class="wp-image-767 size-medium"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","fontSize":"large"} -->
-<p class="has-drop-cap has-large-font-size">Hi, I am Richard, the author of everything you see here. I hope you like my work as much as I do!</p>
+<!-- wp:media-text {"align":"","mediaId":782,"mediaLink":"https://themepush.com/demo-cailo/cailohome/stefan-stefancik-pza7qwnciyg-unsplash/","mediaType":"image","mediaSizeSlug":"medium","verticalAlignment":"center","imageFill":true,"focalPoint":{"x":0.54,"y":0.38},"className":"m-top"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center is-image-fill m-top"><figure class="wp-block-media-text__media" style="background-image:url(https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/06/stefan-stefancik-pzA7QWNCIYg-unsplash.jpg);background-position:54% 38%"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/06/stefan-stefancik-pzA7QWNCIYg-unsplash.jpg" alt="" class="wp-image-782 size-medium"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","fontSize":"large"} -->
+<p class="has-drop-cap has-large-font-size">Hi, I am Sam Monterey, the author of everything you see here. I hope you like my work as much as I do! Grab my newsletter below for a special gift.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"right","id":769,"width":350,"height":200,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image alignright size-large is-resized"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/06/s-l1600-1024x400.jpg" alt="" class="wp-image-769" width="350" height="200"/></figure>
+<!-- wp:image {"align":"right","id":769,"width":"250px","sizeSlug":"large","linkDestination":"none","className":"is-resized"} -->
+<figure class="wp-block-image alignright size-large is-resized"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/06/s-l1600-1024x400.jpg" alt="" class="wp-image-769" style="width:250px"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:media-text -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 20:36:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 20:36:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-09 16:23:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-09 16:23:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-24 12:43:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-24 12:43:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cailohome]]></wp:post_name>
@@ -1436,130 +1559,40 @@
 		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_loading_disable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Santoria Pack]]></title>
-		<link>https://themepush.com/demo-cailo/downloads/santoria-pack/</link>
-		<pubDate>Sat, 20 Nov 2021 22:24:03 +0000</pubDate>
+		<title><![CDATA[Blog]]></title>
+		<link>https://themepush.com/demo-cailo/blog/</link>
+		<pubDate>Sat, 20 Nov 2021 20:38:08 +0000</pubDate>
 		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://themepush.com/demo-cailo/?post_type=download&#038;p=57</guid>
+		<guid isPermaLink="false">https://themepush.com/demo-cailo/?page_id=13</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"color":{"background":"#ffcfdb"}},"textColor":"black","className":"mb-0 fadein"} -->
-<div class="wp-block-group alignwide mb-0 fadein has-black-color has-text-color has-background" style="background-color:#ffcfdb"><!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"level":6,"style":{"color":{"text":"#000000"}}} -->
-<h6 class="has-text-color" style="color:#000000">INCLUDED WITH THE PACK</h6>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.1","fontSize":"75px"},"color":{"text":"#000000"}}} -->
-<p class="has-text-color" style="color:#000000;font-size:75px;line-height:1.1">Royalty Free.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":5} -->
-<div style="height:5px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.38%"} -->
-<div class="wp-block-column" style="flex-basis:33.38%"><!-- wp:paragraph {"style":{"color":{"text":"#000000"}},"fontSize":"extra-small"} -->
-<p class="has-text-color has-extra-small-font-size" style="color:#000000"><em>Nature</em>, in the common sense, refers to essences unchanged by man; space, the air, the river, the leaf.&nbsp;<em>Art</em>&nbsp;is applied to the mixture of his will with the same things, as in a house, a canal, a statue, a picture. But his operations taken together are so insignificant, a little chipping, baking, patching, and washing, that in an impression so grand as that of the world on the human mind, they do not vary the result.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"33%"} -->
-<div class="wp-block-column" style="flex-basis:33%"><!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"id":30,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-10-1024x1024.png" alt="" class="wp-image-30"/><figcaption>Use for social media, websites, magazines.</figcaption></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"33.62%"} -->
-<div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":29,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-9-1024x1024.png" alt="" class="wp-image-29"/><figcaption>AI, PNG, SVG</figcaption></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":"67%"} -->
-<div class="wp-block-column" style="flex-basis:67%"><!-- wp:image {"align":"right","id":28,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="alignright size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-8-1024x1024.png" alt="" class="wp-image-28"/><figcaption>* Everything included.</figcaption></figure></div>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","width":"33%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33%"><!-- wp:paragraph {"style":{"color":{"text":"#000000"}},"fontSize":"extra-small"} -->
-<p class="has-text-color has-extra-small-font-size" style="color:#000000">Undoubtedly we have no questions to ask which are unanswerable. We must trust the perfection of the creation so far, as to believe that whatever curiosity the order of things has awakened in our minds, the order of things can satisfy. Every man's condition is a solution in hieroglyphic to those inquiries he would put.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[A great Santoria pack for social.]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 22:24:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 22:24:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 06:30:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 06:30:25]]></wp:post_modified_gmt>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2021-11-20 20:38:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-11-20 20:38:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-20 20:38:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-20 20:38:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[santoria-pack]]></wp:post_name>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[download]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="download_tag" nicename="ai"><![CDATA[AI]]></category>
-		<category domain="download_category" nicename="colorful"><![CDATA[Colorful]]></category>
-		<category domain="download_tag" nicename="png"><![CDATA[PNG]]></category>
-		<category domain="download_tag" nicename="svg"><![CDATA[SVG]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_download_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57.000000]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_download_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[28]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[edd_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[19.00]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[edd_variable_prices]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[edd_download_files]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;a:6:{s:5:"index";s:1:"0";s:13:"attachment_id";s:2:"45";s:14:"thumbnail_size";s:5:"large";s:4:"name";s:9:"File Test";s:4:"file";s:83:"https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/inside.png";s:9:"condition";s:3:"all";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_bundled_products]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:1:"0";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_bundled_products_conditions]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:3:"all";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
@@ -1576,14 +1609,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
 		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_download_gross_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_download_gross_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1913,11 +1938,11 @@
 		<category domain="download_tag" nicename="svg"><![CDATA[SVG]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[156.000000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[195.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -1965,11 +1990,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[156]]></wp:meta_value>
+		<wp:meta_value><![CDATA[195]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2206,11 +2231,11 @@
 		<category domain="download_tag" nicename="svg"><![CDATA[SVG]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[80.000000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[96.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -2258,11 +2283,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[80]]></wp:meta_value>
+		<wp:meta_value><![CDATA[96]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2349,11 +2374,11 @@
 										<category domain="download_category" nicename="minimalistic"><![CDATA[Minimalistic]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[135.000000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[171.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -2401,11 +2426,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[135]]></wp:meta_value>
+		<wp:meta_value><![CDATA[171]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2495,11 +2520,11 @@
 		<category domain="download_tag" nicename="svg"><![CDATA[SVG]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1725.000000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1932.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -2547,11 +2572,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1725]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1932]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2569,7 +2594,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":6,"style":{"color":{"text":"#000000"}}} -->
-<h6 class="has-text-color" style="color:#000000">INCLUDED WITH THE PACK</h6>
+<h6 class="wp-block-heading has-text-color" style="color:#000000">INCLUDED WITH THE PACK</h6>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"55px","lineHeight":"0.8"},"color":{"text":"#000000"}}} -->
@@ -2580,7 +2605,7 @@
 <p class="has-text-color" style="color:#000000;font-size:55px;line-height:0.8">for Royalty Use.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":5} -->
+<!-- wp:spacer {"height":"5px"} -->
 <div style="height:5px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:column --></div>
@@ -2598,22 +2623,22 @@
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"id":30,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-10-1024x1024.png" alt="" class="wp-image-30"/><figcaption>Use for social media, websites, magazines.</figcaption></figure>
+<!-- wp:image {"id":29,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-9-1024x1024.png" alt="" class="wp-image-29"/><figcaption class="wp-element-caption">Use for social media, websites, magazines.</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.62%"} -->
-<div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":29,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-9-1024x1024.png" alt="" class="wp-image-29"/><figcaption>AI, PNG, SVG</figcaption></figure>
+<div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":30,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-10-1024x1024.png" alt="" class="wp-image-30"/><figcaption class="wp-element-caption">AI, PNG, SVG</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"67%"} -->
-<div class="wp-block-column" style="flex-basis:67%"><!-- wp:image {"align":"right","id":28,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="alignright size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-8-1024x1024.png" alt="" class="wp-image-28"/><figcaption>* Everything included.</figcaption></figure></div>
+<div class="wp-block-column" style="flex-basis:67%"><!-- wp:image {"align":"right","id":27,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignright size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-7-1024x1024.png" alt="" class="wp-image-27"/><figcaption class="wp-element-caption">* Everything included.</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -2628,8 +2653,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 23:05:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 23:05:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 05:36:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 05:36:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-24 10:52:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-24 10:52:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[book-illustrations]]></wp:post_name>
@@ -2645,11 +2670,11 @@
 		<category domain="download_tag" nicename="svg"><![CDATA[SVG]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1287.000000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1404.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -2664,20 +2689,12 @@
 		<wp:meta_value><![CDATA[39.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[edd_variable_prices]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[edd_download_files]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:1;a:6:{s:5:"index";s:1:"0";s:13:"attachment_id";s:2:"45";s:14:"thumbnail_size";s:5:"large";s:4:"name";s:9:"File Demo";s:4:"file";s:83:"https://themepush.com/demo-cailo/wp-content/uploads/sites/37/edd/2021/11/inside.png";s:9:"condition";s:3:"all";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_bundled_products]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:1:"0";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edd_bundled_products_conditions]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:3:"all";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
@@ -2697,11 +2714,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edd_download_gross_earnings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1287]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1404]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2898,50 +2915,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blog]]></title>
-		<link>https://themepush.com/demo-cailo/blog/</link>
-		<pubDate>Sat, 20 Nov 2021 20:38:08 +0000</pubDate>
-		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://themepush.com/demo-cailo/?page_id=13</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 20:38:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 20:38:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-20 20:38:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-20 20:38:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_title_checkbox]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[hide_feat_img]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
-		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3212,6 +3185,31 @@
 		<wp:meta_value><![CDATA[shrink-content]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://themepush.com/demo-cailo/wp-global-styles-twentytwentythree/</link>
+		<pubDate>Mon, 17 Jul 2023 18:22:10 +0000</pubDate>
+		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://themepush.com/demo-cailo/wp-global-styles-twentytwentythree/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>795</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-17 18:22:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-17 18:22:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-17 18:22:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-17 18:22:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentythree]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
+						</item>
 				</channel>
 </rss>
 	
