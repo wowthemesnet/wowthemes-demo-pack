@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.2" created="2023-11-24 12:44" -->
+	<!-- generator="WordPress/6.3.2" created="2023-11-24 16:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Cailo</title>
 	<link>https://themepush.com/demo-cailo</link>
 	<description>Just another Wordpress Themes site</description>
-	<pubDate>Fri, 24 Nov 2023 12:44:53 +0000</pubDate>
+	<pubDate>Fri, 24 Nov 2023 16:04:28 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themepush.com/</wp:base_site_url>
@@ -1160,7 +1160,9 @@
 		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://themepush.com/demo-cailo/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:lazyblock/cailo-marquee {"blockId":"Z1kaklL","blockUniqueClass":"lazyblock-cailo-marquee-Z1kaklL"} /-->
+		<content:encoded><![CDATA[<!-- wp:shortcode -->
+[cailo_marquee text="SALE 20% off on all our illustrations. Offer is available this week only!"]
+<!-- /wp:shortcode -->
 
 <!-- wp:group {"backgroundColor":"white","textColor":"black","className":"px-0"} -->
 <div class="wp-block-group px-0 has-black-color has-white-background-color has-text-color has-background"><!-- wp:columns {"align":"wide"} -->
@@ -1201,8 +1203,8 @@
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"id":25,"sizeSlug":"large","linkDestination":"none","className":"fadein"} -->
-<figure class="wp-block-image size-large fadein"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-5-1024x1024.png" alt="" class="wp-image-25"/></figure>
+<!-- wp:image {"id":27,"sizeSlug":"large","linkDestination":"none","className":"fadein"} -->
+<figure class="wp-block-image size-large fadein"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-7-1024x1024.png" alt="" class="wp-image-27"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -1217,8 +1219,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-09 16:27:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-09 16:27:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-24 15:16:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-24 15:16:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1253,11 +1255,11 @@
 		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_loading_disable]]></wp:meta_key>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_wp_loading_disable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -1450,15 +1452,23 @@
 		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://themepush.com/demo-cailo/newsletter/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
+		<content:encoded><![CDATA[<!-- wp:image {"id":279,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2021/11/DrawKit-Vector-Illustration-ecommerce-02-1-1024x816.png" alt="" class="wp-image-279"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
 [newsletter]
 <!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 20:09:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 20:09:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 00:58:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 00:58:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-24 15:48:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-24 15:48:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsletter]]></wp:post_name>
@@ -1488,6 +1498,18 @@
 		<wp:meta_key><![CDATA[layout_select]]></wp:meta_key>
 		<wp:meta_value><![CDATA[shrink-content]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[279]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_loading_disable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[CailoHome]]></title>
@@ -1501,8 +1523,8 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:media-text {"align":"","mediaPosition":"right","mediaId":765,"mediaLink":"https://themepush.com/demo-cailo/cailohome/intro/","mediaType":"image","verticalAlignment":"center","imageFill":false,"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0"}}},"className":"is-style-default cailo-hero"} -->
-<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center is-style-default cailo-hero" style="padding-top:0;padding-bottom:0;padding-left:0"><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"style":{"color":{"text":"#000000"},"typography":{"fontSize":"80px","fontStyle":"normal","fontWeight":"100"}},"className":"display-1 fadein"} -->
-<h1 class="wp-block-heading display-1 fadein has-text-color" style="color:#000000;font-size:80px;font-style:normal;font-weight:100">Crafted illustrations for your Projects</h1>
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center is-style-default cailo-hero" style="padding-top:0;padding-bottom:0;padding-left:0"><div class="wp-block-media-text__content"><!-- wp:heading {"level":1,"style":{"color":{"text":"#000000"},"typography":{"fontSize":"82px","fontStyle":"normal","fontWeight":"100"}},"className":"display-1 fadein"} -->
+<h1 class="wp-block-heading display-1 fadein has-text-color" style="color:#000000;font-size:82px;font-style:normal;font-weight:100">Crafted illustrations for your Projects</h1>
 <!-- /wp:heading --></div><figure class="wp-block-media-text__media"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2023/05/intro-1024x768.png" alt="" class="wp-image-765 size-full"/></figure></div>
 <!-- /wp:media-text -->
 
@@ -1527,8 +1549,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 20:36:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 20:36:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-11-24 12:43:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-24 12:43:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-24 16:01:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-24 16:01:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cailohome]]></wp:post_name>
@@ -2858,8 +2880,8 @@
 <p>A cyclist from Topeka is delighted when she gets the chance to take part in the final of a baking competition. However, her chances are scuppered when her car breaks down on the way to the competition. Distraught at losing a baking competition, the cyclist turns to a life of crime.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"full","id":275,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image alignfull size-full"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-01.png" alt="" class="wp-image-275"/><figcaption>illustration</figcaption></figure>
+<!-- wp:image {"align":"center","id":30,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-10-1024x1024.png" alt="" class="wp-image-30"/><figcaption class="wp-element-caption">illustration</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"large"} -->
@@ -2878,15 +2900,21 @@
 <p>Katia is a dentist from Maidenhead who falls in love with her golf caddy. The two are separated when the golf caddy goes away to sea. However, Katia manages to rescue the situation by baking a fabulous cake. Dunstan is a golfer from Leicester who falls in love with his tutor. The two are separated when the tutor falls for somebody else. However, Dunstan manages to rescue the situation by booking a wonderful restaurant.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:gallery {"ids":[276,277],"linkTo":"none","align":"wide"} -->
-<figure class="wp-block-gallery alignwide columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02-1024x816.png" alt="" data-id="276" data-full-url="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-02.png" data-link="https://themepush.com/demo-cailo/2021/11/20/what-is-brand/drawkit-vector-illustration-ecommerce-02/" class="wp-image-276"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-07-1024x662.png" alt="" data-id="277" data-full-url="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-ecommerce-07.png" data-link="https://themepush.com/demo-cailo/2021/11/20/what-is-brand/drawkit-vector-illustration-ecommerce-07/" class="wp-image-277"/></figure></li></ul></figure>
+<!-- wp:gallery {"linkTo":"none","align":"wide"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped"><!-- wp:image {"id":28,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-8-1024x1024.png" alt="" class="wp-image-28"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":24,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/edd/2021/11/DrawKit-Vector-Illustration-Black-Friday-Online-Shopping-4-1024x1024.png" alt="" class="wp-image-24"/></figure>
+<!-- /wp:image --></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-20 20:05:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-20 20:05:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 03:52:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 03:52:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-24 15:19:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-24 15:19:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-is-brand]]></wp:post_name>
@@ -2915,6 +2943,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_loading_disable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3039,12 +3075,12 @@
 					<item>
 		<title><![CDATA[Most creative agency profiles on Behance]]></title>
 		<link>https://themepush.com/demo-cailo/most-creative-agency-profiles-on-behance/</link>
-		<pubDate>Sun, 21 Nov 2021 01:49:21 +0000</pubDate>
+		<pubDate>Tue, 21 Nov 2023 01:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[wowthemesnet@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://themepush.com/demo-cailo/?p=285</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading {"style":{"typography":{"fontSize":38,"lineHeight":"1.4"}}} -->
-<h2 style="font-size:38px;line-height:1.4"><strong>The voyage had begun, and had begun happily with a soft blue sky, and a calm sea.</strong></h2>
+<h2 class="wp-block-heading" style="font-size:38px;line-height:1.4"><strong>The voyage had begun, and had begun happily with a soft blue sky, and a calm sea.</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns -->
@@ -3061,8 +3097,8 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:image {"align":"full","id":292,"sizeSlug":"full","linkDestination":"none","className":"bg-warning"} -->
-<figure class="wp-block-image alignfull size-full bg-warning"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/37/2021/11/DrawKit-Vector-Illustration-Christmas-Thanksgiving-6.png" alt="" class="wp-image-292"/></figure>
+<!-- wp:image {"align":"full","id":279,"sizeSlug":"large","linkDestination":"none","className":"bg-warning"} -->
+<figure class="wp-block-image alignfull size-large bg-warning"><img src="https://themepush.com/demo-cailo/wp-content/uploads/sites/5/2021/11/DrawKit-Vector-Illustration-ecommerce-02-1-1024x816.png" alt="" class="wp-image-279"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns -->
@@ -3080,10 +3116,10 @@
 <!-- /wp:columns -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>285</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-21 01:49:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-21 01:49:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-21 01:54:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-21 01:54:57]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-11-21 01:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 01:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-11-24 15:17:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-24 15:17:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[most-creative-agency-profiles-on-behance]]></wp:post_name>
@@ -3105,6 +3141,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[hide_sale_pop_checkbox]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-11-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_loading_disable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
